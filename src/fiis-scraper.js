@@ -46,6 +46,7 @@ const fetch = async ticket => {
     const min52w = getFloat($('#quotations--infos-wrapper .item-group .min52 .value span+span'))
     const max52w = getFloat($('#quotations--infos-wrapper .item-group .max52 .value span+span'))
     const down = $('#quotations--infos-wrapper .item-group .val12 .change').hasClass('down')
+    const patrimony = getFloat($($('#informations--indexes .item .value').get(3)))
     let valuation = getFloat($('#quotations--infos-wrapper .item-group .val12 .value span'))
     valuation = valuation * (down ? -1 : 1)
     const [{ dividend: value }] = dividends
@@ -60,6 +61,7 @@ const fetch = async ticket => {
         cnpj,
         price,
         value,
+        patrimony,
         min52w,
         max52w,
         valuation,
@@ -99,4 +101,3 @@ module.exports = {
     fetchList,
     test
 }
-

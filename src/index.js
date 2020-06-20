@@ -2,6 +2,7 @@ const fundamentus = require('./ft-scraper')
 const fiis = require('./fiis-scraper')
 const fs = require('fs')
 const path = require('path')
+const moment = require('moment')
 
 const papeis = require('./papeis.json').data
 const indicadores = require('./indicadores.json').data
@@ -154,36 +155,51 @@ const sortFunds = async () => {
 
     const mapped = fundos.map(fund => {
         const variance = calcVariance(fund.dividends)
+        const impact = (fund.value > 0 ? variance / fund.value : 0) > 0.1
         return {
             ...fund,
+            impact,
             variance,
             stdDev: Math.sqrt(variance),
             magicNumber: Math.ceil(fund.value > 0 ? fund.price / fund.value : 0),
             ROI: fund.price > 0 ? fund.value * 100 / fund.price : 0
         }
     })
-    const filtered = mapped.filter(({ price, value }) => {
+    const filtered = mapped.filter(({ price, value, dividends, patrimony }) => {
         if (!(price > 0)) {
             return false
         }
         if (!(value > 0.01)) {
             return false
         }
+        const pvp = price / patrimony
+        if (!(pvp >= 0.9 && pvp <= 1.10)) {
+            return false
+        }
+        const [{ pay_date }] = dividends
+        const diffInMonths = moment().diff(moment(pay_date, 'DD/MM/YY'), 'months', true)
+        if (!(diffInMonths < 2)) {
+            return false
+        }
         return true
     })
     const ordenar = [
+        { campo: 'impact', ordem: 'asc' },
         { campo: 'ROI', ordem: 'desc' },
         { campo: 'variance', ordem: 'asc' },
         { campo: 'magicNumber', ordem: 'asc' }
     ]
     const results = sortFields(filtered, ordenar)
-    console.table(results.map(({ fundSymbol, value, ROI, variance, magicNumber, price }) => ({
+    console.table(results.map(({ fundSymbol, value, ROI, variance, magicNumber, price, min52w, max52w, patrimony }) => ({
         '1. Fundo': fundSymbol,
         '2. Dividendos': formatCurr(value),
         '3. ROI': ROI.toLocaleString('pt-BR') + '%',
         '4. Magic Number': magicNumber.toLocaleString('pt-BR') + ' cotas',
         '5. Variância': formatCurr(variance),
         '6. Cotação': formatCurr(price),
+        '7. P/VP': (price / patrimony).toLocaleString('pt-BR'),
+        '8. Mínimo (52 sem)': formatCurr(min52w),
+        '9. Máximo (52 sem)': formatCurr(max52w),
     })))
 }
 
