@@ -1,5 +1,5 @@
 const fundamentus = require('./ft-scraper')
-const fundsexplorer = require('./fe-scraper')
+const fiis = require('./fiis-scraper')
 const fs = require('fs')
 const path = require('path')
 
@@ -71,18 +71,14 @@ const syncronizeIndicator = async () => {
         try {
             const results = await Promise.all(tasks)
             console.log(`${position} / ${indicadores.length} itens processados`)
-            const updatedResults = results.filter((data, index) => {
+            results.forEach((data, index) => {
                 const indicadorIndex = position - tasks.length + index
                 const indicador = indicadores[indicadorIndex]
                 indicadores[indicadorIndex] = data || indicador
-                return JSON.stringify(data) != JSON.stringify(indicador)
             })
-            console.log(`${updatedResults.length} indicadores atualizados`)
-            if (updatedResults.length > 0) {
-                fs.writeFileSync(path.join(__dirname, 'indicadores.json'), JSON.stringify({
-                    data: indicadores
-                }, null, 2))
-            }
+            fs.writeFileSync(path.join(__dirname, 'indicadores.json'), JSON.stringify({
+                data: indicadores
+            }, null, 2))
         } catch (error) {
             console.error(error)
         }
@@ -91,9 +87,24 @@ const syncronizeIndicator = async () => {
 
 const syncronizeFunds = async () => {
     try {
-        const result = await fundsexplorer.fetchAll()
-        fs.writeFileSync(path.join(__dirname, 'fundos.json'), JSON.stringify(result, null, 2))
-        console.log(`Atualizado todos os ${result.data.length} fundos imobiliários`)
+        const list = await fiis.fetchList()
+        let finalResult = []
+        let position = 0
+        while (position < list.length) {
+            const tasks = []
+            while (tasks.length < 10 && position < list.length) {
+                const ticket = list[position]
+                tasks.push(fiis.fetch(ticket))
+                position++
+            }
+            const results = await Promise.all(tasks)
+            const filtered = results.filter(o => o)
+            finalResult = finalResult.concat(filtered)
+            console.log(`${position} / ${list.length} fundos processados`)
+            fs.writeFileSync(path.join(__dirname, 'fundos.json'), JSON.stringify({
+                data: finalResult
+            }, null, 2))
+        }
     } catch (error) {
         console.error(error)
     }
@@ -134,27 +145,28 @@ const sortBenjaminGrahamFilter = async () => {
 
 const sortFunds = async () => {
 
-    const calcVariance = (a, b) => {
-        const avg = (a + b) / 2
-        const variance = [a, b].reduce((r, v) => r + Math.pow(v - avg, 2), 0) /  2
+    const calcVariance = list => {
+        const values = list.map(a => a.dividend)
+        const avg = values.reduce((r, v) => r + v, 0) / (values.length || 1)
+        const variance = values.reduce((r, v) => r + Math.pow(v - avg, 2), 0) /  2
         return Math.sqrt(variance)
     }
 
     const mapped = fundos.map(fund => {
-        const variance = calcVariance(fund.yield1m, fund.yield12m)
+        const variance = calcVariance(fund.dividends)
         return {
             ...fund,
             variance,
             stdDev: Math.sqrt(variance),
-            magicNumber: Math.ceil(fund.yield1m > 0 ? fund.price / fund.yield1m : 0),
-            ROI: fund.price > 0 ? fund.yield1m * 100 / fund.price : 0
+            magicNumber: Math.ceil(fund.value > 0 ? fund.price / fund.value : 0),
+            ROI: fund.price > 0 ? fund.value * 100 / fund.price : 0
         }
     })
-    const filtered = mapped.filter(({ price, yield1m }) => {
+    const filtered = mapped.filter(({ price, value }) => {
         if (!(price > 0)) {
             return false
         }
-        if (!(yield1m > 0)) {
+        if (!(value > 0.01)) {
             return false
         }
         return true
@@ -165,12 +177,12 @@ const sortFunds = async () => {
         { campo: 'magicNumber', ordem: 'asc' }
     ]
     const results = sortFields(filtered, ordenar)
-    console.table(results.map(({ fundSymbol, yield1m, ROI, variance, magicNumber, price }) => ({
+    console.table(results.map(({ fundSymbol, value, ROI, variance, magicNumber, price }) => ({
         '1. Fundo': fundSymbol,
-        '2. Dividendos': formatCurr(yield1m),
+        '2. Dividendos': formatCurr(value),
         '3. ROI': ROI.toLocaleString('pt-BR') + '%',
         '4. Magic Number': magicNumber.toLocaleString('pt-BR') + ' cotas',
-        '5. Variância': variance.toLocaleString('pt-BR'),
+        '5. Variância': formatCurr(variance),
         '6. Cotação': formatCurr(price),
     })))
 }
