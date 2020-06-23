@@ -5,7 +5,7 @@
       "empresa": "ALLIAR ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 127.85,
+      "PL": 138.9,
       "liquidez_corrent": 0.98,
       "dividendos": 0.8,
       "LPA": 0.08
@@ -25,7 +25,7 @@
       "empresa": "ABC Brasil PN N2",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 6.91,
+      "PL": 6.85,
       "liquidez_corrent": null,
       "dividendos": 6.8,
       "LPA": 2.24
@@ -35,7 +35,7 @@
       "empresa": "AMBEV S/A ON NM",
       "setor": "Bebidas",
       "subsetor": "Cervejas e Refrigerantes",
-      "PL": 21.33,
+      "PL": 21.75,
       "liquidez_corrent": 1.23,
       "dividendos": 3.5,
       "LPA": 0.65
@@ -75,7 +75,7 @@
       "empresa": "VITALYZE.ME ",
       "setor": "Prods. de Uso Pessoal e de Limpeza",
       "subsetor": "Produtos de Uso Pessoal",
-      "PL": -3.2,
+      "PL": -3.22,
       "liquidez_corrent": 0,
       "dividendos": 0,
       "LPA": -0.82
@@ -135,7 +135,7 @@
       "empresa": "AFLUENTE T ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 25.74,
+      "PL": 26.53,
       "liquidez_corrent": 23.21,
       "dividendos": 1,
       "LPA": 0.39
@@ -195,7 +195,7 @@
       "empresa": "BRASILAGRO ON NM",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 29.71,
+      "PL": 29.58,
       "liquidez_corrent": 1.96,
       "dividendos": 4.4,
       "LPA": 0.65
@@ -205,7 +205,7 @@
       "empresa": "PARQUE ANHEMBI ON",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 31.09,
+      "PL": 33.56,
       "liquidez_corrent": 0.73,
       "dividendos": 0,
       "LPA": 0.8
@@ -265,7 +265,7 @@
       "empresa": "ALPARGATAS ON N1",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Cal�ados",
-      "PL": 58.94,
+      "PL": 59.37,
       "liquidez_corrent": 1.79,
       "dividendos": 0.2,
       "LPA": 0.42
@@ -275,7 +275,7 @@
       "empresa": "ALPARGATAS PN N1",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Cal�ados",
-      "PL": 70.8,
+      "PL": 69.7,
       "liquidez_corrent": 1.79,
       "dividendos": 0.2,
       "LPA": 0.42
@@ -285,7 +285,7 @@
       "empresa": "ESTAPAR ON NM",
       "setor": "Servi�os",
       "subsetor": "Servi�os Diversos",
-      "PL": -41.7,
+      "PL": -42.72,
       "liquidez_corrent": 0.5,
       "dividendos": 0,
       "LPA": -0.22
@@ -305,7 +305,7 @@
       "empresa": "ALIANSCSONAE ON",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 82.42,
+      "PL": 80.93,
       "liquidez_corrent": 9.03,
       "dividendos": 0,
       "LPA": 0.36
@@ -325,7 +325,7 @@
       "empresa": "ALUPAR UNT N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 10.74,
+      "PL": 10.64,
       "liquidez_corrent": 2.43,
       "dividendos": 2.8,
       "LPA": 2.28
@@ -335,7 +335,7 @@
       "empresa": "ALUPAR ON N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 12.93,
+      "PL": 12.87,
       "liquidez_corrent": 2.43,
       "dividendos": 2.3,
       "LPA": 0.76
@@ -345,9 +345,9 @@
       "empresa": "ALUPAR PN N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 9.75,
+      "PL": 9.57,
       "liquidez_corrent": 2.43,
-      "dividendos": 3.1,
+      "dividendos": 3.2,
       "LPA": 0.76
     },
     {
@@ -355,7 +355,7 @@
       "empresa": "LOJAS MARISA ON NM",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": -10.5,
+      "PL": -10.41,
       "liquidez_corrent": 1.76,
       "dividendos": 0,
       "LPA": -0.84
@@ -405,7 +405,7 @@
       "empresa": "ANIMA ON NM",
       "setor": "Diversos",
       "subsetor": "Educacional",
-      "PL": -41.47,
+      "PL": -41.55,
       "liquidez_corrent": 3.81,
       "dividendos": 0,
       "LPA": -0.6
@@ -425,7 +425,7 @@
       "empresa": "ALPER S.A. ON",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Corretoras de Seguros",
-      "PL": -128.94,
+      "PL": -129.25,
       "liquidez_corrent": 2.61,
       "dividendos": 0.2,
       "LPA": -0.19
@@ -485,19 +485,19 @@
       "empresa": "ARTERIS ON",
       "setor": "Transporte",
       "subsetor": "Explora��o de Rodovias",
-      "PL": -155.79,
-      "liquidez_corrent": 0.55,
+      "PL": -412.07,
+      "liquidez_corrent": 0.64,
       "dividendos": 0,
-      "LPA": -0.06
+      "LPA": -0.02
     },
     {
       "papel": "ARZZ3",
       "empresa": "AREZZO CO ON NM",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 24.59,
+      "PL": 25.53,
       "liquidez_corrent": 2.26,
-      "dividendos": 1.3,
+      "dividendos": 1.2,
       "LPA": 1.81
     },
     {
@@ -535,7 +535,7 @@
       "empresa": "AZEVEDO & TRAVASSOS ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Pesada",
-      "PL": -0.67,
+      "PL": -0.62,
       "liquidez_corrent": 0.11,
       "dividendos": 0,
       "LPA": -24.1
@@ -555,7 +555,7 @@
       "empresa": "AZUL PN",
       "setor": "Transporte",
       "subsetor": "Transporte A�reo",
-      "PL": -0.86,
+      "PL": -0.81,
       "liquidez_corrent": 0.37,
       "dividendos": 0,
       "LPA": -25.41
@@ -565,9 +565,9 @@
       "empresa": "B3 ON",
       "setor": "Servi�os Financeiros Diversos",
       "subsetor": "Servi�os Financeiros Diversos",
-      "PL": 33.51,
+      "PL": 33.07,
       "liquidez_corrent": 1.19,
-      "dividendos": 3.1,
+      "dividendos": 3.2,
       "LPA": 1.52
     },
     {
@@ -585,7 +585,7 @@
       "empresa": "BAHEMA ON",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": -11.22,
+      "PL": -10.86,
       "liquidez_corrent": 0.69,
       "dividendos": 0,
       "LPA": -8.29
@@ -615,7 +615,7 @@
       "empresa": "BAUMER PN",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Hospitalares",
-      "PL": 15.6,
+      "PL": 15.68,
       "liquidez_corrent": 1.88,
       "dividendos": 0,
       "LPA": 0.64
@@ -625,7 +625,7 @@
       "empresa": "EXCELSIOR PN",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": 16.14,
+      "PL": 16.72,
       "liquidez_corrent": 1.46,
       "dividendos": 1,
       "LPA": 5.14
@@ -635,9 +635,9 @@
       "empresa": "BANCO DA AMAZONIA S.A. ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 3.54,
+      "PL": 3.64,
       "liquidez_corrent": null,
-      "dividendos": 10.9,
+      "dividendos": 10.6,
       "LPA": 9.29
     },
     {
@@ -645,9 +645,9 @@
       "empresa": "BANCO DO BRASIL S.A. ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 5.66,
+      "PL": 5.55,
       "liquidez_corrent": null,
-      "dividendos": 5.4,
+      "dividendos": 5.5,
       "LPA": 5.99
     },
     {
@@ -655,9 +655,9 @@
       "empresa": "BANCO BRADESCO S.A. ON N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 8.8,
+      "PL": 8.65,
       "liquidez_corrent": null,
-      "dividendos": 8.6,
+      "dividendos": 8.8,
       "LPA": 2.27
     },
     {
@@ -665,9 +665,9 @@
       "empresa": "BANCO BRADESCO S.A. PN N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 9.85,
+      "PL": 9.5,
       "liquidez_corrent": null,
-      "dividendos": 8.5,
+      "dividendos": 8.8,
       "LPA": 2.27
     },
     {
@@ -675,7 +675,7 @@
       "empresa": "BR Brokers ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Intermedia��o Imobili�ria",
-      "PL": -1.02,
+      "PL": -1.1,
       "liquidez_corrent": 1.49,
       "dividendos": 0,
       "LPA": -2.46
@@ -745,7 +745,7 @@
       "empresa": "Minerva ON NM",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": 20.78,
+      "PL": 19.77,
       "liquidez_corrent": 1.88,
       "dividendos": 0,
       "LPA": 0.66
@@ -795,9 +795,9 @@
       "empresa": "BANESE PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 4.85,
+      "PL": 4.8,
       "liquidez_corrent": null,
-      "dividendos": 5.3,
+      "dividendos": 5.4,
       "LPA": 5.31
     },
     {
@@ -835,9 +835,9 @@
       "empresa": "INTER BANCO UNT N2",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 132.87,
+      "PL": 158.11,
       "liquidez_corrent": null,
-      "dividendos": 0.6,
+      "dividendos": 0.5,
       "LPA": 0.24
     },
     {
@@ -845,7 +845,7 @@
       "empresa": "INTER BANCO ON N2",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 136.59,
+      "PL": 157.7,
       "liquidez_corrent": null,
       "dividendos": 0.5,
       "LPA": 0.08
@@ -855,9 +855,9 @@
       "empresa": "INTER BANCO PN N2",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 141.81,
+      "PL": 158.94,
       "liquidez_corrent": null,
-      "dividendos": 0.7,
+      "dividendos": 0.6,
       "LPA": 0.08
     },
     {
@@ -865,7 +865,7 @@
       "empresa": "BIOMM SA ON",
       "setor": "Sa�de",
       "subsetor": "Medicamentos e Outros Produtos",
-      "PL": -17.8,
+      "PL": -17.37,
       "liquidez_corrent": 2.21,
       "dividendos": 0,
       "LPA": -0.98
@@ -895,9 +895,9 @@
       "empresa": "BK BRASIL ON NM",
       "setor": "Hoteis e Restaurantes",
       "subsetor": "Restaurante e Similares",
-      "PL": -258.44,
+      "PL": -252.15,
       "liquidez_corrent": 1.12,
-      "dividendos": 0.4,
+      "dividendos": 0.5,
       "LPA": -0.04
     },
     {
@@ -915,7 +915,7 @@
       "empresa": "BANCO MERCANTIL DO BRASIL S/A PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 5.17,
+      "PL": 5.16,
       "liquidez_corrent": null,
       "dividendos": 5,
       "LPA": 2.68
@@ -937,7 +937,7 @@
       "subsetor": "Bancos",
       "PL": 0,
       "liquidez_corrent": null,
-      "dividendos": 4,
+      "dividendos": 3.8,
       "LPA": 0
     },
     {
@@ -945,7 +945,7 @@
       "empresa": "BANCO MERCANTIL DE INVESTIMENTOS SA ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 32.05,
+      "PL": 33.32,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": 0.59
@@ -955,9 +955,9 @@
       "empresa": "BANCO MERCANTIL DE INVESTIMENTOS SA PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 32.05,
+      "PL": 34.25,
       "liquidez_corrent": null,
-      "dividendos": 7.4,
+      "dividendos": 6.9,
       "LPA": 0.59
     },
     {
@@ -965,7 +965,7 @@
       "empresa": "MONARK ON",
       "setor": "Viagens e Lazer",
       "subsetor": "Bicicletas",
-      "PL": 33.96,
+      "PL": 33.78,
       "liquidez_corrent": 28.58,
       "dividendos": 3.2,
       "LPA": 5.59
@@ -995,9 +995,9 @@
       "empresa": "BANCO DO NORDESTE ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 4.16,
+      "PL": 4.18,
       "liquidez_corrent": null,
-      "dividendos": 5.7,
+      "dividendos": 5.6,
       "LPA": 20.58
     },
     {
@@ -1035,7 +1035,7 @@
       "empresa": "BOMBRIL SA PN",
       "setor": "Prods. de Uso Pessoal e de Limpeza",
       "subsetor": "Produtos de Limpeza",
-      "PL": -66.2,
+      "PL": -66.82,
       "liquidez_corrent": 0.61,
       "dividendos": 0,
       "LPA": -0.03
@@ -1045,9 +1045,9 @@
       "empresa": "BTGP BANCO UNT",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 28.1,
+      "PL": 29.66,
       "liquidez_corrent": null,
-      "dividendos": 1.9,
+      "dividendos": 1.8,
       "LPA": 2.56
     },
     {
@@ -1055,9 +1055,9 @@
       "empresa": "BTGP BANCO ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 35.1,
+      "PL": 39.79,
       "liquidez_corrent": null,
-      "dividendos": 1.5,
+      "dividendos": 1.3,
       "LPA": 0.85
     },
     {
@@ -1065,9 +1065,9 @@
       "empresa": "BTGP BANCO PNA",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 24,
+      "PL": 25.17,
       "liquidez_corrent": null,
-      "dividendos": 2.2,
+      "dividendos": 2.1,
       "LPA": 0.85
     },
     {
@@ -1075,7 +1075,7 @@
       "empresa": "BANCO PAN PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 18.21,
+      "PL": 18.27,
       "liquidez_corrent": null,
       "dividendos": 1.9,
       "LPA": 0.49
@@ -1145,7 +1145,7 @@
       "empresa": "BRADESPAR S/A ON N1",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": 1.982,
+      "PL": 1.988,
       "liquidez_corrent": null,
       "dividendos": 2.3,
       "LPA": 0.02
@@ -1165,7 +1165,7 @@
       "empresa": "PETROBRAS BR ON NM",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": 13.15,
+      "PL": 12.9,
       "liquidez_corrent": 1.85,
       "dividendos": 2.1,
       "LPA": 1.69
@@ -1175,7 +1175,7 @@
       "empresa": "BRF Foods ON NM",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": 14.56,
+      "PL": 14.28,
       "liquidez_corrent": 1.19,
       "dividendos": 0,
       "LPA": 1.54
@@ -1195,7 +1195,7 @@
       "empresa": "CONSORCIO ALFA PNF",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 10.11,
+      "PL": 10.55,
       "liquidez_corrent": 0.77,
       "dividendos": 0,
       "LPA": 0.68
@@ -1245,9 +1245,9 @@
       "empresa": "CONSORCIO ALFA PND",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 11.73,
+      "PL": 10.38,
       "liquidez_corrent": 0.77,
-      "dividendos": 3.6,
+      "dividendos": 4.1,
       "LPA": 0.68
     },
     {
@@ -1265,7 +1265,7 @@
       "empresa": "ALFA DE INVESTIMENTO ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 11.95,
+      "PL": 12.24,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": 0.69
@@ -1275,7 +1275,7 @@
       "empresa": "ALFA DE INVESTIMENTO PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 11.19,
+      "PL": 11.09,
       "liquidez_corrent": null,
       "dividendos": 7.2,
       "LPA": 0.69
@@ -1285,9 +1285,9 @@
       "empresa": "BRASKEM ON N1",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": -2.65,
+      "PL": -2.61,
       "liquidez_corrent": 1.29,
-      "dividendos": 3.2,
+      "dividendos": 3.3,
       "LPA": -9.8
     },
     {
@@ -1295,9 +1295,9 @@
       "empresa": "BRASKEM PNA N1",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": -2.62,
+      "PL": -2.53,
       "liquidez_corrent": 1.29,
-      "dividendos": 3.3,
+      "dividendos": 3.4,
       "LPA": -9.8
     },
     {
@@ -1315,9 +1315,9 @@
       "empresa": "BR MALLS PARTICIPA��ES S/A ON",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 7.74,
+      "PL": 7.65,
       "liquidez_corrent": 2.72,
-      "dividendos": 7.7,
+      "dividendos": 7.8,
       "LPA": 1.39
     },
     {
@@ -1325,7 +1325,7 @@
       "empresa": "BR PROPERTIES ON NM",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 9.33,
+      "PL": 9.22,
       "liquidez_corrent": 5.15,
       "dividendos": 0.9,
       "LPA": 1
@@ -1345,9 +1345,9 @@
       "empresa": "BANRISUL S/A PNA",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 7.78,
+      "PL": 7.5,
       "liquidez_corrent": null,
-      "dividendos": 4.2,
+      "dividendos": 4.3,
       "LPA": 3.13
     },
     {
@@ -1415,7 +1415,7 @@
       "empresa": "BIOSEV ON NM",
       "setor": "Alimentos",
       "subsetor": "A�ucar e Alcool",
-      "PL": -4.47,
+      "PL": -5.03,
       "liquidez_corrent": 1.06,
       "dividendos": 0,
       "LPA": -0.76
@@ -1425,9 +1425,9 @@
       "empresa": "BRB ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 5.92,
+      "PL": 6.7,
       "liquidez_corrent": null,
-      "dividendos": 6.9,
+      "dividendos": 6.1,
       "LPA": 12.69
     },
     {
@@ -1445,7 +1445,7 @@
       "empresa": "B2W - COMPANHIA GLOBAL DO VAREJO ON",
       "setor": "Com�rcio",
       "subsetor": "Produtos Diversos",
-      "PL": -189.63,
+      "PL": -186.71,
       "liquidez_corrent": 2.11,
       "dividendos": 0,
       "LPA": -0.55
@@ -1455,7 +1455,7 @@
       "empresa": "APABA ON",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": 4.09,
+      "PL": 4.34,
       "liquidez_corrent": 0.93,
       "dividendos": 0,
       "LPA": 1.3
@@ -1545,7 +1545,7 @@
       "empresa": "PENALTY ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Cal�ados",
-      "PL": 8.77,
+      "PL": 8.89,
       "liquidez_corrent": 1.16,
       "dividendos": 0,
       "LPA": 0.57
@@ -1565,7 +1565,7 @@
       "empresa": "CAMIL ON NM",
       "setor": "Alimentos",
       "subsetor": "Alimentos Diversos",
-      "PL": 16.65,
+      "PL": 16.8,
       "liquidez_corrent": 2.17,
       "dividendos": 2.1,
       "LPA": 0.65
@@ -1575,9 +1575,9 @@
       "empresa": "CSU CARDSYST ON NM",
       "setor": "Servi�os",
       "subsetor": "Servi�os Diversos",
-      "PL": 17.84,
+      "PL": 18.37,
       "liquidez_corrent": 0.97,
-      "dividendos": 2.3,
+      "dividendos": 2.2,
       "LPA": 0.76
     },
     {
@@ -1595,7 +1595,7 @@
       "empresa": "AMPLA ENERG ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 8.79,
+      "PL": 9.45,
       "liquidez_corrent": 0.72,
       "dividendos": 0,
       "LPA": 1.73
@@ -1655,7 +1655,7 @@
       "empresa": "CYRELA COMMERCIAL PROPERTIES SA EMP PART ON",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 59.14,
+      "PL": 58.21,
       "liquidez_corrent": 4.32,
       "dividendos": 0.3,
       "LPA": 0.28
@@ -1665,9 +1665,9 @@
       "empresa": "COMPANHIA DE CONCESS�ES RODOVI�RIAS ON NM",
       "setor": "Transporte",
       "subsetor": "Explora��o de Rodovias",
-      "PL": 22.12,
+      "PL": 21.66,
       "liquidez_corrent": 0.96,
-      "dividendos": 5.1,
+      "dividendos": 5.2,
       "LPA": 0.68
     },
     {
@@ -1685,7 +1685,7 @@
       "empresa": "CEA MODAS ON NM",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 3.77,
+      "PL": 3.81,
       "liquidez_corrent": 1.4,
       "dividendos": 0,
       "LPA": 2.97
@@ -1725,7 +1725,7 @@
       "empresa": "CIA. DE FIA��O E TECIDOS CEDRO CACHOEIRA ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -10.27,
+      "PL": -8.26,
       "liquidez_corrent": 0.97,
       "dividendos": 0,
       "LPA": -1.76
@@ -1735,7 +1735,7 @@
       "empresa": "CIA. DE FIA��O E TECIDOS CEDRO CACHOEIRA PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -5.64,
+      "PL": -4.99,
       "liquidez_corrent": 0.97,
       "dividendos": 0,
       "LPA": -1.76
@@ -1765,7 +1765,7 @@
       "empresa": "CEEE-D ON N1",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": -0.53,
+      "PL": -0.63,
       "liquidez_corrent": 0.26,
       "dividendos": 0,
       "LPA": -138.69
@@ -1875,9 +1875,9 @@
       "empresa": "CESP CIA ENERGETICA SAO PAULO PNB",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 6.93,
+      "PL": 6.98,
       "liquidez_corrent": 1.23,
-      "dividendos": 6.4,
+      "dividendos": 6.3,
       "LPA": 4.2
     },
     {
@@ -1895,7 +1895,7 @@
       "empresa": "COMPANHIA DE G�S DE S�O PAULO - COMG�S PNAS",
       "setor": "G�s",
       "subsetor": "G�s",
-      "PL": 15.47,
+      "PL": 15.48,
       "liquidez_corrent": 1.04,
       "dividendos": 15.9,
       "LPA": 11.67
@@ -1905,7 +1905,7 @@
       "empresa": "GRAZZIOTIN ON",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 4.03,
+      "PL": 3.99,
       "liquidez_corrent": 2.07,
       "dividendos": 6.8,
       "LPA": 6.44
@@ -1915,9 +1915,9 @@
       "empresa": "GRAZZIOTIN PN",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 4.04,
+      "PL": 4.02,
       "liquidez_corrent": 2.07,
-      "dividendos": 6.7,
+      "dividendos": 6.8,
       "LPA": 6.44
     },
     {
@@ -1925,9 +1925,9 @@
       "empresa": "CIELO ON NM",
       "setor": "Servi�os Financeiros Diversos",
       "subsetor": "Servi�os Financeiros Diversos",
-      "PL": 12.88,
+      "PL": 12.45,
       "liquidez_corrent": 1.1,
-      "dividendos": 2.2,
+      "dividendos": 2.3,
       "LPA": 0.44
     },
     {
@@ -1985,7 +1985,7 @@
       "empresa": "CELESC PN N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 5.67,
+      "PL": 5.65,
       "liquidez_corrent": 1.23,
       "dividendos": 3.7,
       "LPA": 9.2
@@ -2015,9 +2015,9 @@
       "empresa": "CEMIG ON N1",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 7.66,
+      "PL": 8,
       "liquidez_corrent": 1.35,
-      "dividendos": 2.3,
+      "dividendos": 2.2,
       "LPA": 1.56
     },
     {
@@ -2025,7 +2025,7 @@
       "empresa": "CEMIG PN N1",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 7.3,
+      "PL": 7.43,
       "liquidez_corrent": 1.35,
       "dividendos": 2.4,
       "LPA": 1.56
@@ -2045,7 +2045,7 @@
       "empresa": "CENTAURO ON NM",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 27.29,
+      "PL": 26.95,
       "liquidez_corrent": 1.43,
       "dividendos": 0,
       "LPA": 1.29
@@ -2085,7 +2085,7 @@
       "empresa": "COGNA ON",
       "setor": "Diversos",
       "subsetor": "Educacional",
-      "PL": -281.16,
+      "PL": -294.52,
       "liquidez_corrent": 1.97,
       "dividendos": 0.5,
       "LPA": -0.02
@@ -2115,7 +2115,7 @@
       "empresa": "CPFL ENERGIA S.A. ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 12.4,
+      "PL": 12.18,
       "liquidez_corrent": 1.36,
       "dividendos": 0,
       "LPA": 2.59
@@ -2125,7 +2125,7 @@
       "empresa": "COPEL ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 8.7,
+      "PL": 8.63,
       "liquidez_corrent": 1.53,
       "dividendos": 3.5,
       "LPA": 7.32
@@ -2145,9 +2145,9 @@
       "empresa": "COPEL PNB",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 9,
+      "PL": 8.91,
       "liquidez_corrent": 1.53,
-      "dividendos": 3.7,
+      "dividendos": 3.8,
       "LPA": 7.32
     },
     {
@@ -2195,7 +2195,7 @@
       "empresa": "CR2 ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -12.69,
+      "PL": -12.7,
       "liquidez_corrent": 2.61,
       "dividendos": 76.9,
       "LPA": -1.48
@@ -2215,9 +2215,9 @@
       "empresa": "CARREFOUR BR ON NM",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Alimentos",
-      "PL": 42.06,
+      "PL": 41.19,
       "liquidez_corrent": 1.16,
-      "dividendos": 1.2,
+      "dividendos": 1.3,
       "LPA": 0.47
     },
     {
@@ -2225,7 +2225,7 @@
       "empresa": "ALFA FINANCEIRA ON",
       "setor": "Financeiros",
       "subsetor": "Soc. Cr�dito e Financiamento",
-      "PL": 7.98,
+      "PL": 8.49,
       "liquidez_corrent": null,
       "dividendos": 0.6,
       "LPA": 0.72
@@ -2235,9 +2235,9 @@
       "empresa": "ALFA FINANCEIRA PN",
       "setor": "Financeiros",
       "subsetor": "Soc. Cr�dito e Financiamento",
-      "PL": 9.3,
+      "PL": 9.16,
       "liquidez_corrent": null,
-      "dividendos": 6.1,
+      "dividendos": 6.2,
       "LPA": 0.72
     },
     {
@@ -2255,7 +2255,7 @@
       "empresa": "CRISTAL PNA",
       "setor": "Qu�micos ",
       "subsetor": "Qu�micos Diversos",
-      "PL": 6.34,
+      "PL": 6.27,
       "liquidez_corrent": 6.2,
       "dividendos": 0.6,
       "LPA": 3.79
@@ -2305,7 +2305,7 @@
       "empresa": "COSAN SA INDUSTRIA E COMERCIO ON",
       "setor": "Alimentos",
       "subsetor": "A�ucar e Alcool",
-      "PL": 31.77,
+      "PL": 31.66,
       "liquidez_corrent": 1.97,
       "dividendos": 2.1,
       "LPA": 2.22
@@ -2315,9 +2315,9 @@
       "empresa": "COPASA MG ON",
       "setor": "�gua e Saneamento",
       "subsetor": "�gua e Saneamento",
-      "PL": 10.46,
+      "PL": 10.87,
       "liquidez_corrent": 1.76,
-      "dividendos": 2.7,
+      "dividendos": 2.3,
       "LPA": 5.75
     },
     {
@@ -2325,9 +2325,9 @@
       "empresa": "CSN ON",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 35.69,
+      "PL": 35.41,
       "liquidez_corrent": 1.2,
-      "dividendos": 2.7,
+      "dividendos": 2.8,
       "LPA": 0.31
     },
     {
@@ -2375,7 +2375,7 @@
       "empresa": "KARSTEN ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -8.74,
+      "PL": -8.24,
       "liquidez_corrent": 1.95,
       "dividendos": 0,
       "LPA": -2
@@ -2385,7 +2385,7 @@
       "empresa": "KARSTEN PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -6.09,
+      "PL": -6.13,
       "liquidez_corrent": 1.95,
       "dividendos": 0,
       "LPA": -2
@@ -2395,7 +2395,7 @@
       "empresa": "COTEMINAS ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -6.84,
+      "PL": -6.75,
       "liquidez_corrent": 1.16,
       "dividendos": 0,
       "LPA": -1.83
@@ -2405,7 +2405,7 @@
       "empresa": "COTEMINAS PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -3.35,
+      "PL": -3.31,
       "liquidez_corrent": 1.16,
       "dividendos": 0,
       "LPA": -1.83
@@ -2425,7 +2425,7 @@
       "empresa": "SANTANENSE ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 25.02,
+      "PL": 23.39,
       "liquidez_corrent": 1.36,
       "dividendos": 0,
       "LPA": 0.27
@@ -2435,7 +2435,7 @@
       "empresa": "SANTANENSE PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 25.24,
+      "PL": 27.09,
       "liquidez_corrent": 1.36,
       "dividendos": 0,
       "LPA": 0.27
@@ -2455,7 +2455,7 @@
       "empresa": "CVC BRASIL ON NM",
       "setor": "Viagens e Lazer",
       "subsetor": "Viagens e Turismo",
-      "PL": 12.27,
+      "PL": 12.12,
       "liquidez_corrent": 1.49,
       "dividendos": 2.1,
       "LPA": 1.62
@@ -2465,7 +2465,7 @@
       "empresa": "CYRELA BRAZIL REALTY PN",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 21.89,
+      "PL": 21.98,
       "liquidez_corrent": 2.44,
       "dividendos": 8,
       "LPA": 1.04
@@ -2565,9 +2565,9 @@
       "empresa": "Direcional Engenharia ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 24.1,
+      "PL": 23.88,
       "liquidez_corrent": 4.24,
-      "dividendos": 3.5,
+      "dividendos": 3.6,
       "LPA": 0.59
     },
     {
@@ -2575,7 +2575,7 @@
       "empresa": "DOMMO ON",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": -3.33,
+      "PL": -4.03,
       "liquidez_corrent": 0.48,
       "dividendos": 0,
       "LPA": -0.47
@@ -2615,7 +2615,7 @@
       "empresa": "DOHLER PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 14.37,
+      "PL": 13.93,
       "liquidez_corrent": 6.68,
       "dividendos": 0,
       "LPA": 0.43
@@ -2625,7 +2625,7 @@
       "empresa": "DTCOM ON",
       "setor": "Servi�os",
       "subsetor": "Servi�os Diversos",
-      "PL": -5.31,
+      "PL": -4.85,
       "liquidez_corrent": 0.41,
       "dividendos": 0,
       "LPA": -1.39
@@ -2635,9 +2635,9 @@
       "empresa": "DURATEX ON NM",
       "setor": "Madeira e Papel",
       "subsetor": "Madeira",
-      "PL": 21.3,
+      "PL": 21.78,
       "liquidez_corrent": 1.92,
-      "dividendos": 2.8,
+      "dividendos": 2.7,
       "LPA": 0.63
     },
     {
@@ -2705,7 +2705,7 @@
       "empresa": "ELECTRO A�O ALTONA S/A ON",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Constru��o e Agr�colas",
-      "PL": 18.69,
+      "PL": 17.49,
       "liquidez_corrent": 1.09,
       "dividendos": 0.4,
       "LPA": 0.75
@@ -2715,7 +2715,7 @@
       "empresa": "ELECTRO A�O ALTONA S/A PN",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Constru��o e Agr�colas",
-      "PL": 5.38,
+      "PL": 5.49,
       "liquidez_corrent": 1.09,
       "dividendos": 1.5,
       "LPA": 0.75
@@ -2745,7 +2745,7 @@
       "empresa": "ECORODOVIAS ON NM",
       "setor": "Transporte",
       "subsetor": "Explora��o de Rodovias",
-      "PL": -39.89,
+      "PL": -39.19,
       "liquidez_corrent": 0.58,
       "dividendos": 0,
       "LPA": -0.33
@@ -2795,7 +2795,7 @@
       "empresa": "\tENGIE BRASIL ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 15.28,
+      "PL": 15.44,
       "liquidez_corrent": 1.13,
       "dividendos": 3.5,
       "LPA": 2.83
@@ -2835,7 +2835,7 @@
       "empresa": "ELEKEIROZ S/A PN",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": 40.95,
+      "PL": 40.93,
       "liquidez_corrent": 1.94,
       "dividendos": 1.3,
       "LPA": 0.78
@@ -2845,7 +2845,7 @@
       "empresa": "ELETROBR�S ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 5.03,
+      "PL": 5.02,
       "liquidez_corrent": 1.74,
       "dividendos": 0,
       "LPA": 6.12
@@ -2865,7 +2865,7 @@
       "empresa": "ELETROBR�S PNB",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 5.16,
+      "PL": 5.21,
       "liquidez_corrent": 1.74,
       "dividendos": 0,
       "LPA": 6.12
@@ -2935,7 +2935,7 @@
       "empresa": "EMAE PN",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 12.44,
+      "PL": 12.46,
       "liquidez_corrent": 4.82,
       "dividendos": 2.5,
       "LPA": 2.51
@@ -2945,7 +2945,7 @@
       "empresa": "EMBRAER ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Aeron�utico",
-      "PL": -2.67,
+      "PL": -2.57,
       "liquidez_corrent": 1.3,
       "dividendos": 0,
       "LPA": -3.29
@@ -2955,9 +2955,9 @@
       "empresa": "ENAUTA PART ON",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": 11.19,
+      "PL": 12.04,
       "liquidez_corrent": 4.03,
-      "dividendos": 11.2,
+      "dividendos": 10.5,
       "LPA": 0.91
     },
     {
@@ -2965,9 +2965,9 @@
       "empresa": "EDP ENERGIAS DO BRASIL S/A ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 8.41,
+      "PL": 8.28,
       "liquidez_corrent": 1.29,
-      "dividendos": 3.2,
+      "dividendos": 3.3,
       "LPA": 2.16
     },
     {
@@ -2975,7 +2975,7 @@
       "empresa": "ENEVA ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 20.11,
+      "PL": 20.47,
       "liquidez_corrent": 2.01,
       "dividendos": 0,
       "LPA": 2.06
@@ -2995,7 +2995,7 @@
       "empresa": "ENERGISA UNT N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 19.38,
+      "PL": 19.27,
       "liquidez_corrent": 1.2,
       "dividendos": 1.2,
       "LPA": 2.52
@@ -3005,7 +3005,7 @@
       "empresa": "ENERGISA ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 24.22,
+      "PL": 24.12,
       "liquidez_corrent": 1.2,
       "dividendos": 1,
       "LPA": 0.5
@@ -3015,7 +3015,7 @@
       "empresa": "ENERGISA PN",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 18.35,
+      "PL": 17.91,
       "liquidez_corrent": 1.2,
       "dividendos": 1.3,
       "LPA": 0.5
@@ -3025,9 +3025,9 @@
       "empresa": "ENERGISA MT ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 11.11,
+      "PL": 11.34,
       "liquidez_corrent": 1.14,
-      "dividendos": 2.7,
+      "dividendos": 2.6,
       "LPA": 2.34
     },
     {
@@ -3035,7 +3035,7 @@
       "empresa": "ENERGISA MT ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 11.16,
+      "PL": 11.34,
       "liquidez_corrent": 1.14,
       "dividendos": 0.1,
       "LPA": 2.34
@@ -3055,9 +3055,9 @@
       "empresa": "EQTL PARA PNA",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 29.86,
+      "PL": 28.3,
       "liquidez_corrent": 2.74,
-      "dividendos": 1.9,
+      "dividendos": 2,
       "LPA": 0.21
     },
     {
@@ -3075,9 +3075,9 @@
       "empresa": "EQTL PARA PNC",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 32.02,
+      "PL": 28.82,
       "liquidez_corrent": 2.74,
-      "dividendos": 2.2,
+      "dividendos": 2.5,
       "LPA": 0.21
     },
     {
@@ -3085,7 +3085,7 @@
       "empresa": "EQUATORIAL ENERGIA S.A. ON NM",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 9.26,
+      "PL": 9.28,
       "liquidez_corrent": 1.86,
       "dividendos": 0,
       "LPA": 2.39
@@ -3125,7 +3125,7 @@
       "empresa": "ETERNIT ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Materiais de Constru��o",
-      "PL": -52.88,
+      "PL": -59,
       "liquidez_corrent": 0.97,
       "dividendos": 0,
       "LPA": -0.06
@@ -3135,7 +3135,7 @@
       "empresa": "EUCATEX ON",
       "setor": "Madeira e Papel",
       "subsetor": "Madeira",
-      "PL": 40.89,
+      "PL": 38.78,
       "liquidez_corrent": 1.14,
       "dividendos": 0,
       "LPA": 0.71
@@ -3145,7 +3145,7 @@
       "empresa": "EUCATEX PN",
       "setor": "Madeira e Papel",
       "subsetor": "Madeira",
-      "PL": 8.64,
+      "PL": 9.24,
       "liquidez_corrent": 1.14,
       "dividendos": 0,
       "LPA": 0.71
@@ -3155,9 +3155,9 @@
       "empresa": "Even ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 19.28,
+      "PL": 21.91,
       "liquidez_corrent": 2.48,
-      "dividendos": 1.5,
+      "dividendos": 1.3,
       "LPA": 0.5
     },
     {
@@ -3165,7 +3165,7 @@
       "empresa": "EZTec ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 25.82,
+      "PL": 25.37,
       "liquidez_corrent": 6.18,
       "dividendos": 0.8,
       "LPA": 1.5
@@ -3225,9 +3225,9 @@
       "empresa": "FERBASA PN",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 9.36,
+      "PL": 9.61,
       "liquidez_corrent": 1.64,
-      "dividendos": 4.2,
+      "dividendos": 4.1,
       "LPA": 1.98
     },
     {
@@ -3335,9 +3335,9 @@
       "empresa": "FLEURY ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 28.57,
+      "PL": 28.21,
       "liquidez_corrent": 1.94,
-      "dividendos": 3.7,
+      "dividendos": 3.8,
       "LPA": 0.88
     },
     {
@@ -3345,7 +3345,7 @@
       "empresa": "FRAS-LE S.A. ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 27.46,
+      "PL": 27.87,
       "liquidez_corrent": 2.46,
       "dividendos": 2,
       "LPA": 0.2
@@ -3375,7 +3375,7 @@
       "empresa": "POMIFRUTAS ON NM",
       "setor": "Agropecu�ria",
       "subsetor": "Agricultura",
-      "PL": 16.42,
+      "PL": 16.69,
       "liquidez_corrent": 0.04,
       "dividendos": 0,
       "LPA": 0.3
@@ -3445,7 +3445,7 @@
       "empresa": "BIOTOSCANA DR3",
       "setor": "Sa�de",
       "subsetor": "Medicamentos e Outros Produtos",
-      "PL": 670.42,
+      "PL": 671.08,
       "liquidez_corrent": 1.36,
       "dividendos": 0,
       "LPA": 0.02
@@ -3455,9 +3455,9 @@
       "empresa": "DUKE ENERGY INT,GERA��O PARANAPANEMA SA ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 12.76,
+      "PL": 12.71,
       "liquidez_corrent": 0.86,
-      "dividendos": 4.9,
+      "dividendos": 5,
       "LPA": 3.15
     },
     {
@@ -3465,9 +3465,9 @@
       "empresa": "DUKE ENERGY INT,GERA��O PARANAPANEMA SA PN",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 14.88,
+      "PL": 14.36,
       "liquidez_corrent": 0.86,
-      "dividendos": 4.2,
+      "dividendos": 4.4,
       "LPA": 3.15
     },
     {
@@ -3495,7 +3495,7 @@
       "empresa": "GAFISA ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 97.85,
+      "PL": 99.86,
       "liquidez_corrent": 1.7,
       "dividendos": 0,
       "LPA": 0.06
@@ -3505,7 +3505,7 @@
       "empresa": "GERDAU S.A. ON N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 23.35,
+      "PL": 22.89,
       "liquidez_corrent": 2.03,
       "dividendos": 1.1,
       "LPA": 0.56
@@ -3515,7 +3515,7 @@
       "empresa": "GERDAU S.A. PN N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 27.35,
+      "PL": 26.95,
       "liquidez_corrent": 2.03,
       "dividendos": 0.9,
       "LPA": 0.56
@@ -3525,7 +3525,7 @@
       "empresa": "INTERMEDICA ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 81.14,
+      "PL": 80.28,
       "liquidez_corrent": 0.97,
       "dividendos": 0.3,
       "LPA": 0.8
@@ -3535,7 +3535,7 @@
       "empresa": "METAL�RGICA GERDAU ON N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 19.33,
+      "PL": 19.67,
       "liquidez_corrent": 2.04,
       "dividendos": 1.2,
       "LPA": 0.32
@@ -3545,7 +3545,7 @@
       "empresa": "METAL�RGICA GERDAU PN N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": 21.97,
+      "PL": 21.75,
       "liquidez_corrent": 2.04,
       "dividendos": 1.1,
       "LPA": 0.32
@@ -3555,7 +3555,7 @@
       "empresa": "GOL LINHAS AEREAS INTELIGENTES SA PN",
       "setor": "Transporte",
       "subsetor": "Transporte A�reo",
-      "PL": -55.75,
+      "PL": -54.44,
       "liquidez_corrent": 0.48,
       "dividendos": 0,
       "LPA": -0.33
@@ -3575,7 +3575,7 @@
       "empresa": "GP INVESTMENTS, LTD DR3",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": -2.14,
+      "PL": -2.17,
       "liquidez_corrent": 11.14,
       "dividendos": 0,
       "LPA": -2.16
@@ -3585,7 +3585,7 @@
       "empresa": "GRENDENE SA ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Cal�ados",
-      "PL": 15.5,
+      "PL": 15.58,
       "liquidez_corrent": 5.14,
       "dividendos": 3.4,
       "LPA": 0.5
@@ -3595,7 +3595,7 @@
       "empresa": "Generalshopp ON NM",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": -0.31,
+      "PL": -0.32,
       "liquidez_corrent": 1.58,
       "dividendos": 0,
       "LPA": -164.51
@@ -3605,9 +3605,9 @@
       "empresa": "GUARARAPES CONFEC��ES ON",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 19.77,
+      "PL": 18.44,
       "liquidez_corrent": 1.69,
-      "dividendos": 2.6,
+      "dividendos": 2.8,
       "LPA": 1.03
     },
     {
@@ -3635,7 +3635,7 @@
       "empresa": "HAGA ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Materiais de Constru��o",
-      "PL": 13.65,
+      "PL": 14.36,
       "liquidez_corrent": 1.86,
       "dividendos": 0,
       "LPA": 0.23
@@ -3655,7 +3655,7 @@
       "empresa": "HAPVIDA ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 57.68,
+      "PL": 55.72,
       "liquidez_corrent": 1.43,
       "dividendos": 0.5,
       "LPA": 1.09
@@ -3665,7 +3665,7 @@
       "empresa": "Helbor ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -32.41,
+      "PL": -33.65,
       "liquidez_corrent": 3.29,
       "dividendos": 0,
       "LPA": -0.09
@@ -3695,7 +3695,7 @@
       "empresa": "HERCULES S/A PN",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "Utens�lios Dom�sticos",
-      "PL": 0.96,
+      "PL": 2.21,
       "liquidez_corrent": 0.01,
       "dividendos": 0,
       "LPA": 6.74
@@ -3705,9 +3705,9 @@
       "empresa": "CIA HERING ON N1",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Vestu�rio",
-      "PL": 14.36,
+      "PL": 13.82,
       "liquidez_corrent": 2.9,
-      "dividendos": 3.5,
+      "dividendos": 3.7,
       "LPA": 1.06
     },
     {
@@ -3715,7 +3715,7 @@
       "empresa": "HOTEIS OTHON S.A. PN",
       "setor": "Hoteis e Restaurantes",
       "subsetor": "Hotelaria",
-      "PL": -0.41,
+      "PL": -0.4,
       "liquidez_corrent": 0.04,
       "dividendos": 0,
       "LPA": -7.44
@@ -3735,7 +3735,7 @@
       "empresa": "HYPERA ON",
       "setor": "Com�rcio",
       "subsetor": "Produtos Diversos",
-      "PL": 20.1,
+      "PL": 20.39,
       "liquidez_corrent": 3,
       "dividendos": 3.2,
       "LPA": 1.71
@@ -3745,7 +3745,7 @@
       "empresa": "IDEIASNET ON",
       "setor": "Programas e Servi�os",
       "subsetor": "Programas e Servi�os",
-      "PL": 108.22,
+      "PL": 111.24,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": 0.04
@@ -3775,7 +3775,7 @@
       "empresa": "Indusval ON N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": -17.23,
+      "PL": -17.3,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.13
@@ -3785,7 +3785,7 @@
       "empresa": "Indusval PN N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": -24.13,
+      "PL": -23.75,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.13
@@ -3825,7 +3825,7 @@
       "empresa": "IGUATEMI ON NM",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 23.76,
+      "PL": 23.89,
       "liquidez_corrent": 2.86,
       "dividendos": 0.6,
       "LPA": 1.51
@@ -3947,7 +3947,7 @@
       "subsetor": "Seguradoras",
       "PL": 0,
       "liquidez_corrent": null,
-      "dividendos": 2.1,
+      "dividendos": 1.8,
       "LPA": 0
     },
     {
@@ -3975,9 +3975,9 @@
       "empresa": "ITA�SA PN N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 9.91,
+      "PL": 9.66,
       "liquidez_corrent": 2.58,
-      "dividendos": 8.4,
+      "dividendos": 8.6,
       "LPA": 1.05
     },
     {
@@ -3985,9 +3985,9 @@
       "empresa": "ITAUUNIBANCO ON N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 11.71,
+      "PL": 11.23,
       "liquidez_corrent": null,
-      "dividendos": 7.6,
+      "dividendos": 7.9,
       "LPA": 2.25
     },
     {
@@ -3995,9 +3995,9 @@
       "empresa": "ITAUUNIBANCO PN N1",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 12.47,
+      "PL": 12.08,
       "liquidez_corrent": null,
-      "dividendos": 7.2,
+      "dividendos": 7.4,
       "LPA": 2.25
     },
     {
@@ -4015,7 +4015,7 @@
       "empresa": "J B DUARTE ON",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": -1.64,
+      "PL": -1.59,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -2.35
@@ -4035,9 +4035,9 @@
       "empresa": "JBS ON NM",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": -63.73,
+      "PL": -61.71,
       "liquidez_corrent": 1.74,
-      "dividendos": 2.4,
+      "dividendos": 2.5,
       "LPA": -0.35
     },
     {
@@ -4045,7 +4045,7 @@
       "empresa": "JO�O FORTES ENGENHARIA S.A. ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -1.1,
+      "PL": -1.19,
       "liquidez_corrent": 1.52,
       "dividendos": 0,
       "LPA": -3.86
@@ -4055,7 +4055,7 @@
       "empresa": "JHSF Part ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 13.08,
+      "PL": 13.02,
       "liquidez_corrent": 2.09,
       "dividendos": 1,
       "LPA": 0.53
@@ -4065,7 +4065,7 @@
       "empresa": "JOSAPAR S/A ON",
       "setor": "Alimentos",
       "subsetor": "Alimentos Diversos",
-      "PL": 18.65,
+      "PL": 17.89,
       "liquidez_corrent": 1.78,
       "dividendos": 0,
       "LPA": 1.29
@@ -4085,7 +4085,7 @@
       "empresa": "JEREISSATI PARTICIPACOES ON",
       "setor": "Telefonia Fixa",
       "subsetor": "Telefonia Fixa",
-      "PL": 21.19,
+      "PL": 20.74,
       "liquidez_corrent": 2.7,
       "dividendos": 0,
       "LPA": 1.2
@@ -4095,9 +4095,9 @@
       "empresa": "JULIO SIMOES ON NM",
       "setor": "Transporte",
       "subsetor": "Transporte Rodovi�rio",
-      "PL": 33.54,
+      "PL": 33.69,
       "liquidez_corrent": 2.13,
-      "dividendos": 1.1,
+      "dividendos": 1,
       "LPA": 0.69
     },
     {
@@ -4105,7 +4105,7 @@
       "empresa": "KEPLER WEBER SA ON",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Industriais",
-      "PL": 21.86,
+      "PL": 22.11,
       "liquidez_corrent": 1.91,
       "dividendos": 1.1,
       "LPA": 1.61
@@ -4115,7 +4115,7 @@
       "empresa": "KLABIN UNT N2",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -9.92,
+      "PL": -9.85,
       "liquidez_corrent": 3.93,
       "dividendos": 3.2,
       "LPA": -2.07
@@ -4125,7 +4125,7 @@
       "empresa": "KLABIN ON N2",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -10.11,
+      "PL": -10.16,
       "liquidez_corrent": 3.93,
       "dividendos": 3.1,
       "LPA": -0.41
@@ -4135,9 +4135,9 @@
       "empresa": "KLABIN PN N2",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -9.8,
+      "PL": -9.75,
       "liquidez_corrent": 3.93,
-      "dividendos": 3.2,
+      "dividendos": 3.3,
       "LPA": -0.41
     },
     {
@@ -4195,7 +4195,7 @@
       "empresa": "LOJAS AMERICANAS S.A. ON",
       "setor": "Com�rcio",
       "subsetor": "Produtos Diversos",
-      "PL": 61.78,
+      "PL": 62.31,
       "liquidez_corrent": 1.95,
       "dividendos": 0.7,
       "LPA": 0.44
@@ -4205,9 +4205,9 @@
       "empresa": "LOJAS AMERICANAS S.A. PN",
       "setor": "Com�rcio",
       "subsetor": "Produtos Diversos",
-      "PL": 75.35,
+      "PL": 74.37,
       "liquidez_corrent": 1.95,
-      "dividendos": 0.5,
+      "dividendos": 0.6,
       "LPA": 0.44
     },
     {
@@ -4225,7 +4225,7 @@
       "empresa": "LOCAMERICA ON NM",
       "setor": "Diversos",
       "subsetor": "Aluguel de Carros",
-      "PL": 25.59,
+      "PL": 25.31,
       "liquidez_corrent": 1.36,
       "dividendos": 2.5,
       "LPA": 0.68
@@ -4275,9 +4275,9 @@
       "empresa": "MAHLE METAL LEVE ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 11.11,
+      "PL": 11.61,
       "liquidez_corrent": 1.56,
-      "dividendos": 3.4,
+      "dividendos": 3.3,
       "LPA": 1.69
     },
     {
@@ -4325,7 +4325,7 @@
       "empresa": "LIGHT SA ON",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 3.77,
+      "PL": 3.8,
       "liquidez_corrent": 1.28,
       "dividendos": 0,
       "LPA": 4.38
@@ -4335,7 +4335,7 @@
       "empresa": "LINX ON NM",
       "setor": "Programas e Servi�os",
       "subsetor": "Programas e Servi�os",
-      "PL": 335.61,
+      "PL": 344.15,
       "liquidez_corrent": 2.72,
       "dividendos": 0.5,
       "LPA": 0.07
@@ -4385,7 +4385,7 @@
       "empresa": "LE LIS BLANC DEUX ON",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": -2.65,
+      "PL": -2.8,
       "liquidez_corrent": 0.87,
       "dividendos": 0,
       "LPA": -2.8
@@ -4395,7 +4395,7 @@
       "empresa": "LOG COM PROP ON NM",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 33.52,
+      "PL": 32.5,
       "liquidez_corrent": 4.98,
       "dividendos": 0.7,
       "LPA": 0.92
@@ -4405,7 +4405,7 @@
       "empresa": "Log-In ON NM",
       "setor": "Transporte",
       "subsetor": "Transporte Hidrovi�rio",
-      "PL": -14.93,
+      "PL": -15.34,
       "liquidez_corrent": 2.32,
       "dividendos": 0,
       "LPA": -1.03
@@ -4415,7 +4415,7 @@
       "empresa": "LOPES BRASIL ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Intermedia��o Imobili�ria",
-      "PL": -180.91,
+      "PL": -176.09,
       "liquidez_corrent": 2.83,
       "dividendos": 0,
       "LPA": -0.03
@@ -4425,9 +4425,9 @@
       "empresa": "RENNER ON",
       "setor": "Com�rcio",
       "subsetor": "Tecidos, Vestu�rio e Cal�ados",
-      "PL": 36.85,
+      "PL": 36.04,
       "liquidez_corrent": 1.37,
-      "dividendos": 0.7,
+      "dividendos": 0.8,
       "LPA": 1.19
     },
     {
@@ -4465,7 +4465,7 @@
       "empresa": "LOCAWEB ON NM",
       "setor": "Programas e Servi�os",
       "subsetor": "Programas e Servi�os",
-      "PL": 298.69,
+      "PL": 296.08,
       "liquidez_corrent": 2.73,
       "dividendos": 0,
       "LPA": 0.11
@@ -4495,7 +4495,7 @@
       "empresa": "CIA MARCOPOLO PN",
       "setor": "Outros",
       "subsetor": "Outros",
-      "PL": -325.26,
+      "PL": -284.72,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.18
@@ -4515,7 +4515,7 @@
       "empresa": "M.DIASBRANCO ON NM",
       "setor": "Alimentos",
       "subsetor": "Alimentos Diversos",
-      "PL": 21.55,
+      "PL": 21.4,
       "liquidez_corrent": 1.73,
       "dividendos": 0.6,
       "LPA": 1.88
@@ -4525,7 +4525,7 @@
       "empresa": "MOURA DUBEUX ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -4.36,
+      "PL": -4.54,
       "liquidez_corrent": 2.64,
       "dividendos": 0,
       "LPA": -1.62
@@ -4535,7 +4535,7 @@
       "empresa": "IMC S/A ON NM",
       "setor": "Hoteis e Restaurantes",
       "subsetor": "Restaurante e Similares",
-      "PL": -14.08,
+      "PL": -14.77,
       "liquidez_corrent": 0.59,
       "dividendos": 0,
       "LPA": -0.28
@@ -4575,7 +4575,7 @@
       "empresa": "MERCANTIL BRASIL ON",
       "setor": "Financeiros",
       "subsetor": "Soc. Cr�dito e Financiamento",
-      "PL": 12.69,
+      "PL": 74.48,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": 0.56
@@ -4585,9 +4585,9 @@
       "empresa": "MERCANTIL BRASIL PN",
       "setor": "Financeiros",
       "subsetor": "Soc. Cr�dito e Financiamento",
-      "PL": 16.98,
+      "PL": 28.24,
       "liquidez_corrent": null,
-      "dividendos": 5.2,
+      "dividendos": 3.1,
       "LPA": 0.56
     },
     {
@@ -4605,7 +4605,7 @@
       "empresa": "MANGELS PN N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Artefatos de Ferro e A�o",
-      "PL": -14.23,
+      "PL": -14.47,
       "liquidez_corrent": 3.05,
       "dividendos": 0,
       "LPA": -0.38
@@ -4615,7 +4615,7 @@
       "empresa": "MAGAZ LUIZA ON NM",
       "setor": "Com�rcio",
       "subsetor": "Eletrodom�sticos",
-      "PL": 141.38,
+      "PL": 140.39,
       "liquidez_corrent": 1.79,
       "dividendos": 0.1,
       "LPA": 0.51
@@ -4635,7 +4635,7 @@
       "empresa": "MILLS ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -39.16,
+      "PL": -38.68,
       "liquidez_corrent": 2.51,
       "dividendos": 0,
       "LPA": -0.15
@@ -4715,7 +4715,7 @@
       "empresa": "MMX MINER ON NM",
       "setor": "Minera��o",
       "subsetor": "Minerais Met�licos",
-      "PL": -0.1,
+      "PL": -0.11,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -18.56
@@ -4725,7 +4725,7 @@
       "empresa": "MUNDIAL S/A ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Acess�rios",
-      "PL": -6.22,
+      "PL": -6.13,
       "liquidez_corrent": 0.29,
       "dividendos": 0,
       "LPA": -4.18
@@ -4745,7 +4745,7 @@
       "empresa": "MINUPAR ON",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": -0.98,
+      "PL": -1.11,
       "liquidez_corrent": 0.13,
       "dividendos": 0,
       "LPA": -4.65
@@ -4765,7 +4765,7 @@
       "empresa": "MOVIDA ON NM",
       "setor": "Diversos",
       "subsetor": "Aluguel de Carros",
-      "PL": 56.89,
+      "PL": 55.3,
       "liquidez_corrent": 0.87,
       "dividendos": 2.7,
       "LPA": 0.24
@@ -4785,7 +4785,7 @@
       "empresa": "Marfrig ON NM",
       "setor": "Alimentos",
       "subsetor": "Carnes e Derivados",
-      "PL": 122.21,
+      "PL": 118.78,
       "liquidez_corrent": 1.15,
       "dividendos": 0,
       "LPA": 0.11
@@ -4815,7 +4815,7 @@
       "empresa": "MRV ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 14.1,
+      "PL": 14.14,
       "liquidez_corrent": 2.49,
       "dividendos": 3.8,
       "LPA": 1.26
@@ -4865,7 +4865,7 @@
       "empresa": "MITRE REALTY ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 78.3,
+      "PL": 82.9,
       "liquidez_corrent": 6.39,
       "dividendos": 0,
       "LPA": 0.19
@@ -4875,7 +4875,7 @@
       "empresa": "METISA PN",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Constru��o e Agr�colas",
-      "PL": 11.47,
+      "PL": 11.84,
       "liquidez_corrent": 2.91,
       "dividendos": 2.3,
       "LPA": 1.49
@@ -4885,7 +4885,7 @@
       "empresa": "Multiplan ON N2",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 23.77,
+      "PL": 23.74,
       "liquidez_corrent": 1.33,
       "dividendos": 2.1,
       "LPA": 0.93
@@ -4915,9 +4915,9 @@
       "empresa": "IOCHPE-MAXION ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 7.71,
+      "PL": 7.97,
       "liquidez_corrent": 1.23,
-      "dividendos": 6,
+      "dividendos": 5.8,
       "LPA": 1.84
     },
     {
@@ -4955,9 +4955,9 @@
       "empresa": "NEOENERGIA ON NM",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 10.36,
+      "PL": 10.53,
       "liquidez_corrent": 1.39,
-      "dividendos": 3.5,
+      "dividendos": 3.4,
       "LPA": 1.91
     },
     {
@@ -4985,7 +4985,7 @@
       "empresa": "NORDON INDS METALURGICAS SA ON",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Industriais",
-      "PL": -10.571,
+      "PL": -9.931,
       "liquidez_corrent": 0.02,
       "dividendos": 0,
       "LPA": 0
@@ -5015,9 +5015,9 @@
       "empresa": "ODONTOPREV ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 28.57,
+      "PL": 28.73,
       "liquidez_corrent": 1.76,
-      "dividendos": 2.4,
+      "dividendos": 2.2,
       "LPA": 0.49
     },
     {
@@ -5025,7 +5025,7 @@
       "empresa": "OUROFINO S/A ON NM",
       "setor": "Sa�de",
       "subsetor": "Medicamentos e Outros Produtos",
-      "PL": 33.09,
+      "PL": 32.67,
       "liquidez_corrent": 1.72,
       "dividendos": 0.1,
       "LPA": 0.92
@@ -5045,7 +5045,7 @@
       "empresa": "OI ON N1",
       "setor": "Telefonia Fixa",
       "subsetor": "Telefonia Fixa",
-      "PL": -0.41,
+      "PL": -0.44,
       "liquidez_corrent": 1.68,
       "dividendos": 0,
       "LPA": -2.66
@@ -5055,7 +5055,7 @@
       "empresa": "OI ON N1",
       "setor": "Telefonia Fixa",
       "subsetor": "Telefonia Fixa",
-      "PL": -0.54,
+      "PL": -0.57,
       "liquidez_corrent": 1.68,
       "dividendos": 0,
       "LPA": -2.66
@@ -5065,7 +5065,7 @@
       "empresa": "OMEGA GER ON NM",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": -9.993,
+      "PL": -9.857,
       "liquidez_corrent": 2.46,
       "dividendos": 0,
       "LPA": 0
@@ -5075,7 +5075,7 @@
       "empresa": "OSX BRASIL ON NM",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "M�quinas e Equipamentos",
-      "PL": -0.02,
+      "PL": -0.03,
       "liquidez_corrent": 0.03,
       "dividendos": 0,
       "LPA": -180.33
@@ -5095,7 +5095,7 @@
       "empresa": "IHPARDINI ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 19.9,
+      "PL": 20.37,
       "liquidez_corrent": 1.45,
       "dividendos": 1.4,
       "LPA": 1.11
@@ -5105,7 +5105,7 @@
       "empresa": "PANATLANTICA ON",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Artefatos de Ferro e A�o",
-      "PL": 23.06,
+      "PL": 23.56,
       "liquidez_corrent": 3.15,
       "dividendos": 0,
       "LPA": 0.98
@@ -5125,7 +5125,7 @@
       "empresa": "P�O DE A��CAR ON",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Alimentos",
-      "PL": 36.32,
+      "PL": 36.12,
       "liquidez_corrent": 0.92,
       "dividendos": 1,
       "LPA": 1.88
@@ -5185,7 +5185,7 @@
       "empresa": "PETROBRAS ON",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": -23.41,
+      "PL": -22.98,
       "liquidez_corrent": 1.21,
       "dividendos": 1.8,
       "LPA": -0.95
@@ -5195,9 +5195,9 @@
       "empresa": "PETROBRAS PN",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": -22.56,
+      "PL": -22.01,
       "liquidez_corrent": 1.21,
-      "dividendos": 3.8,
+      "dividendos": 3.9,
       "LPA": -0.95
     },
     {
@@ -5205,7 +5205,7 @@
       "empresa": "PROFARMA ON NM",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Medicamentos",
-      "PL": 32.01,
+      "PL": 33.29,
       "liquidez_corrent": 1.25,
       "dividendos": 0,
       "LPA": 0.17
@@ -5225,7 +5225,7 @@
       "empresa": "Pine PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": -5.67,
+      "PL": -5.61,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.54
@@ -5245,7 +5245,7 @@
       "empresa": "PLASCAR PARTICIPA��ES INDUSTRIAIS S.A ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": -9.47,
+      "PL": -8.77,
       "liquidez_corrent": 0.44,
       "dividendos": 0,
       "LPA": -0.55
@@ -5255,7 +5255,7 @@
       "empresa": "PARANAPANEMA S.A. ON",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Artefatos de Cobre",
-      "PL": -1.08,
+      "PL": -1.11,
       "liquidez_corrent": 0.48,
       "dividendos": 0,
       "LPA": -12.81
@@ -5325,7 +5325,7 @@
       "empresa": "PANVEL FARM�CIAS ON",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Medicamentos",
-      "PL": 40.84,
+      "PL": 42.44,
       "liquidez_corrent": 1.58,
       "dividendos": 0.7,
       "LPA": 0.57
@@ -5335,7 +5335,7 @@
       "empresa": "PANVEL FARM�CIAS PN",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Medicamentos",
-      "PL": 32.87,
+      "PL": 32.52,
       "liquidez_corrent": 1.58,
       "dividendos": 1,
       "LPA": 0.57
@@ -5345,9 +5345,9 @@
       "empresa": "MARCOPOLO ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 14.09,
+      "PL": 14.29,
       "liquidez_corrent": 1.71,
-      "dividendos": 4.7,
+      "dividendos": 4.6,
       "LPA": 0.2
     },
     {
@@ -5355,9 +5355,9 @@
       "empresa": "MARCOPOLO PN N2",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 14.69,
+      "PL": 15.18,
       "liquidez_corrent": 1.71,
-      "dividendos": 4.5,
+      "dividendos": 4.3,
       "LPA": 0.2
     },
     {
@@ -5365,7 +5365,7 @@
       "empresa": "POSITIVO INF ON NM",
       "setor": "Computadores e Equipamentos",
       "subsetor": "Computadores e Equipamentos",
-      "PL": 30.29,
+      "PL": 31.67,
       "liquidez_corrent": 1.49,
       "dividendos": 0.6,
       "LPA": 0.17
@@ -5415,7 +5415,7 @@
       "empresa": "PETRORIO ON",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": 6.92,
+      "PL": 6.82,
       "liquidez_corrent": 0.72,
       "dividendos": 0,
       "LPA": 5.07
@@ -5435,7 +5435,7 @@
       "empresa": "PRINER ON NM",
       "setor": "Servi�os",
       "subsetor": "Servi�os Diversos",
-      "PL": -61.72,
+      "PL": -61.34,
       "liquidez_corrent": 1.34,
       "dividendos": 0,
       "LPA": -0.16
@@ -5465,7 +5465,7 @@
       "empresa": "PORTO SEGURO SA ON",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Seguradoras",
-      "PL": 13.45,
+      "PL": 13.3,
       "liquidez_corrent": 1.27,
       "dividendos": 4.3,
       "LPA": 4.05
@@ -5475,7 +5475,7 @@
       "empresa": "PORTOBELLO S/A ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Materiais de Constru��o",
-      "PL": 13.52,
+      "PL": 13.12,
       "liquidez_corrent": 1.26,
       "dividendos": 0.9,
       "LPA": 0.32
@@ -5485,7 +5485,7 @@
       "empresa": "PETTENATI ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 16.52,
+      "PL": 15.69,
       "liquidez_corrent": 1.36,
       "dividendos": 0.8,
       "LPA": 0.58
@@ -5495,7 +5495,7 @@
       "empresa": "PETTENATI PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 9,
+      "PL": 8.71,
       "liquidez_corrent": 1.36,
       "dividendos": 1.4,
       "LPA": 0.58
@@ -5535,9 +5535,9 @@
       "empresa": "QUALICORP ON NM",
       "setor": "Sa�de",
       "subsetor": "Servi�os M�dico - Hospitalares, An�lises e Diagn�sticos",
-      "PL": 22.49,
+      "PL": 22.8,
       "liquidez_corrent": 2.12,
-      "dividendos": 14.3,
+      "dividendos": 14.1,
       "LPA": 1.29
     },
     {
@@ -5545,7 +5545,7 @@
       "empresa": "RAIADROGASIL ON",
       "setor": "Com�rcio e Distribui��o",
       "subsetor": "Medicamentos",
-      "PL": 46.76,
+      "PL": 44.16,
       "liquidez_corrent": 1.42,
       "dividendos": 0.6,
       "LPA": 2.44
@@ -5565,7 +5565,7 @@
       "empresa": "ALL - AM�RICA LATINA LOG�STICA S/A ON NM",
       "setor": "Transporte",
       "subsetor": "Transporte Ferrovi�rio",
-      "PL": 77.51,
+      "PL": 76.08,
       "liquidez_corrent": 1.47,
       "dividendos": 0,
       "LPA": 0.31
@@ -5575,7 +5575,7 @@
       "empresa": "CELULOSE IRANI ON",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -15.69,
+      "PL": -15.06,
       "liquidez_corrent": 1.2,
       "dividendos": 0.2,
       "LPA": -0.33
@@ -5585,7 +5585,7 @@
       "empresa": "CELULOSE IRANI PN",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -19.44,
+      "PL": -20.07,
       "liquidez_corrent": 1.2,
       "dividendos": 0.2,
       "LPA": -0.33
@@ -5595,9 +5595,9 @@
       "empresa": "RANDON S.A. IMPLEMENTOS E PARTICIPA��ES ON N1",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 12.9,
+      "PL": 13.31,
       "liquidez_corrent": 2.65,
-      "dividendos": 3.3,
+      "dividendos": 3.2,
       "LPA": 0.63
     },
     {
@@ -5605,9 +5605,9 @@
       "empresa": "RANDON S.A. IMPLEMENTOS E PARTICIPA��ES PN N1",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 15.52,
+      "PL": 15.7,
       "liquidez_corrent": 2.65,
-      "dividendos": 2.8,
+      "dividendos": 2.7,
       "LPA": 0.63
     },
     {
@@ -5615,7 +5615,7 @@
       "empresa": "RECRUSUL PN",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": -39.96,
+      "PL": -41.35,
       "liquidez_corrent": 0.54,
       "dividendos": 0,
       "LPA": -0.04
@@ -5635,7 +5635,7 @@
       "empresa": "RODOBENSIMOB ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 96.4,
+      "PL": 102.13,
       "liquidez_corrent": 2.43,
       "dividendos": 0.1,
       "LPA": 0.09
@@ -5685,7 +5685,7 @@
       "empresa": "LOCALIZA RENT A CAR ON",
       "setor": "Diversos",
       "subsetor": "Aluguel de Carros",
-      "PL": 37.21,
+      "PL": 36.63,
       "liquidez_corrent": 1.45,
       "dividendos": 0.9,
       "LPA": 1.13
@@ -5715,7 +5715,7 @@
       "empresa": "COSAN LOG ON NM",
       "setor": "Transporte",
       "subsetor": "Transporte Ferrovi�rio",
-      "PL": 74.93,
+      "PL": 71.27,
       "liquidez_corrent": 1.47,
       "dividendos": 0,
       "LPA": 0.27
@@ -5755,7 +5755,7 @@
       "empresa": "RENOVA ON N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": -0.13,
+      "PL": -0.14,
       "liquidez_corrent": 0.01,
       "dividendos": 0,
       "LPA": -24.31
@@ -5795,9 +5795,9 @@
       "empresa": "ROMI ON",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "M�qs. e Equips. Industriais",
-      "PL": 9.67,
+      "PL": 9.86,
       "liquidez_corrent": 1.7,
-      "dividendos": 9,
+      "dividendos": 9.6,
       "LPA": 1.32
     },
     {
@@ -5835,7 +5835,7 @@
       "empresa": "REFINARIA DE PETR�LEOS DE MANGUINHOS S.A ON",
       "setor": "Petr�leo, G�s e Biocombust�veis",
       "subsetor": "Explora��o e/ou Refino e Distribui��o",
-      "PL": -0.96,
+      "PL": -0.95,
       "liquidez_corrent": 0.49,
       "dividendos": 0,
       "LPA": -3.38
@@ -5855,7 +5855,7 @@
       "empresa": "ROSSI RESIDENCIAL ON N1",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -0.32,
+      "PL": -0.31,
       "liquidez_corrent": 0.42,
       "dividendos": 0,
       "LPA": -17.4
@@ -5885,7 +5885,7 @@
       "empresa": "METALURGICA RIOSULENSE S/A PN",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 3.69,
+      "PL": 3.57,
       "liquidez_corrent": 0.55,
       "dividendos": 0,
       "LPA": 31.69
@@ -5905,9 +5905,9 @@
       "empresa": "SANTANDER UNT",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 8.12,
+      "PL": 7.97,
       "liquidez_corrent": null,
-      "dividendos": 9.1,
+      "dividendos": 9.3,
       "LPA": 3.86
     },
     {
@@ -5915,9 +5915,9 @@
       "empresa": "SANTANDER ON",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 7.88,
+      "PL": 7.94,
       "liquidez_corrent": null,
-      "dividendos": 9,
+      "dividendos": 8.9,
       "LPA": 1.93
     },
     {
@@ -5925,9 +5925,9 @@
       "empresa": "SANTANDER PN",
       "setor": "Financeiros",
       "subsetor": "Bancos",
-      "PL": 8.21,
+      "PL": 8.05,
       "liquidez_corrent": null,
-      "dividendos": 9.5,
+      "dividendos": 9.7,
       "LPA": 1.93
     },
     {
@@ -5935,9 +5935,9 @@
       "empresa": "SANEPAR UNT N2",
       "setor": "�gua e Saneamento",
       "subsetor": "�gua e Saneamento",
-      "PL": 8.78,
+      "PL": 8.94,
       "liquidez_corrent": 1.3,
-      "dividendos": 3.4,
+      "dividendos": 3.3,
       "LPA": 3.7
     },
     {
@@ -5945,9 +5945,9 @@
       "empresa": "SANEPAR ON",
       "setor": "�gua e Saneamento",
       "subsetor": "�gua e Saneamento",
-      "PL": 9.94,
+      "PL": 9.67,
       "liquidez_corrent": 1.3,
-      "dividendos": 2.8,
+      "dividendos": 2.9,
       "LPA": 0.74
     },
     {
@@ -5955,7 +5955,7 @@
       "empresa": "SANEPAR PN",
       "setor": "�gua e Saneamento",
       "subsetor": "�gua e Saneamento",
-      "PL": 8.78,
+      "PL": 8.82,
       "liquidez_corrent": 1.3,
       "dividendos": 3.5,
       "LPA": 0.74
@@ -5965,9 +5965,9 @@
       "empresa": "SABESP ON NM",
       "setor": "�gua e Saneamento",
       "subsetor": "�gua e Saneamento",
-      "PL": 19.11,
+      "PL": 19.95,
       "liquidez_corrent": 0.74,
-      "dividendos": 2.4,
+      "dividendos": 2.3,
       "LPA": 3.02
     },
     {
@@ -5975,7 +5975,7 @@
       "empresa": "S�O CARLOS EMPREEND.E PARTICIPA��ES S.A. ON",
       "setor": "Explora��o de Im�veis",
       "subsetor": "Explora��o de Im�veis",
-      "PL": 22.93,
+      "PL": 23.39,
       "liquidez_corrent": 2.44,
       "dividendos": 1,
       "LPA": 1.58
@@ -6065,7 +6065,7 @@
       "empresa": "SER EDUCA ON NM",
       "setor": "Diversos",
       "subsetor": "Educacional",
-      "PL": 22.15,
+      "PL": 22.54,
       "liquidez_corrent": 1.72,
       "dividendos": 1.8,
       "LPA": 0.75
@@ -6145,7 +6145,7 @@
       "empresa": "Springs ON NM",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 8.46,
+      "PL": 8.38,
       "liquidez_corrent": 1.33,
       "dividendos": 0,
       "LPA": 0.91
@@ -6155,7 +6155,7 @@
       "empresa": "TIME FOR FUN ON NM",
       "setor": "Viagens e Lazer",
       "subsetor": "Produ��o de Eventos e Shows",
-      "PL": -3.61,
+      "PL": -3.52,
       "liquidez_corrent": 1.49,
       "dividendos": 0,
       "LPA": -0.74
@@ -6165,7 +6165,7 @@
       "empresa": "SCHULZ PN",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "Motores, Compressores e Outros",
-      "PL": 10.7,
+      "PL": 10.57,
       "liquidez_corrent": 2.24,
       "dividendos": 1.4,
       "LPA": 1.05
@@ -6195,7 +6195,7 @@
       "empresa": "SLC Agricola ON NM",
       "setor": "Agropecu�ria",
       "subsetor": "Agricultura",
-      "PL": 12.75,
+      "PL": 12.56,
       "liquidez_corrent": 1.45,
       "dividendos": 1.7,
       "LPA": 1.85
@@ -6205,7 +6205,7 @@
       "empresa": "EDITORA SARAIVA ON",
       "setor": "M�dia",
       "subsetor": "Jornais, Livros e Revistas",
-      "PL": -0.25,
+      "PL": -0.26,
       "liquidez_corrent": 0.88,
       "dividendos": 0,
       "LPA": -7.83
@@ -6215,7 +6215,7 @@
       "empresa": "EDITORA SARAIVA PN",
       "setor": "M�dia",
       "subsetor": "Jornais, Livros e Revistas",
-      "PL": -0.12,
+      "PL": -0.13,
       "liquidez_corrent": 0.88,
       "dividendos": 0,
       "LPA": -7.83
@@ -6235,7 +6235,7 @@
       "empresa": "SMILES ON NM",
       "setor": "Diversos",
       "subsetor": "Programas de Fideliza��o",
-      "PL": 3.69,
+      "PL": 3.62,
       "liquidez_corrent": 1.7,
       "dividendos": 1.7,
       "LPA": 4.36
@@ -6245,9 +6245,9 @@
       "empresa": "SAO MARTINHO ON NM",
       "setor": "Alimentos",
       "subsetor": "Alimentos Diversos",
-      "PL": 12.03,
+      "PL": 11.83,
       "liquidez_corrent": 2.75,
-      "dividendos": 3.3,
+      "dividendos": 3.4,
       "LPA": 1.64
     },
     {
@@ -6265,7 +6265,7 @@
       "empresa": "SANSUY S.A. IND�STRIA DE PL�STICOS PNA",
       "setor": "",
       "subsetor": "",
-      "PL": -0.1,
+      "PL": -0.11,
       "liquidez_corrent": 0.55,
       "dividendos": 0,
       "LPA": -930.87
@@ -6305,7 +6305,7 @@
       "empresa": "SPRINGER ON",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "Eletrodom�sticos",
-      "PL": -5.27,
+      "PL": -9.1,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -2.2
@@ -6315,7 +6315,7 @@
       "empresa": "SPRINGER PNA",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "Eletrodom�sticos",
-      "PL": -4.33,
+      "PL": -7.1,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -2.2
@@ -6335,7 +6335,7 @@
       "empresa": "SINQIA ON",
       "setor": "Programas e Servi�os",
       "subsetor": "Programas e Servi�os",
-      "PL": -760.9,
+      "PL": -755.44,
       "liquidez_corrent": 6.81,
       "dividendos": 0,
       "LPA": -0.03
@@ -6365,7 +6365,7 @@
       "empresa": "SBPAR ON NM",
       "setor": "Transporte",
       "subsetor": "Servi�os de Apoio e Armazenagem",
-      "PL": 344.22,
+      "PL": 331.08,
       "liquidez_corrent": 2.22,
       "dividendos": 0.3,
       "LPA": 0.02
@@ -6395,7 +6395,7 @@
       "empresa": "Sul America UNT N2",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Seguradoras",
-      "PL": 17.1,
+      "PL": 16.93,
       "liquidez_corrent": 1.93,
       "dividendos": 1.9,
       "LPA": 2.64
@@ -6405,9 +6405,9 @@
       "empresa": "Sul America ON N2",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Seguradoras",
-      "PL": 24.25,
+      "PL": 23.39,
       "liquidez_corrent": 1.93,
-      "dividendos": 1.3,
+      "dividendos": 1.4,
       "LPA": 0.88
     },
     {
@@ -6415,7 +6415,7 @@
       "empresa": "Sul America PN",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Seguradoras",
-      "PL": 14.1,
+      "PL": 13.66,
       "liquidez_corrent": 1.93,
       "dividendos": 2.3,
       "LPA": 0.88
@@ -6445,7 +6445,7 @@
       "empresa": "Suzano Papel ON",
       "setor": "Madeira e Papel",
       "subsetor": "Papel e Celulose",
-      "PL": -3.58,
+      "PL": -3.54,
       "liquidez_corrent": 1.29,
       "dividendos": 0,
       "LPA": -11.03
@@ -6497,7 +6497,7 @@
       "subsetor": "Energia El�trica",
       "PL": 0,
       "liquidez_corrent": null,
-      "dividendos": 8,
+      "dividendos": 8.1,
       "LPA": 0
     },
     {
@@ -6517,7 +6517,7 @@
       "subsetor": "Energia El�trica",
       "PL": 0,
       "liquidez_corrent": null,
-      "dividendos": 7.9,
+      "dividendos": 8,
       "LPA": 0
     },
     {
@@ -6555,7 +6555,7 @@
       "empresa": "TAURUS ARMAS ON",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "Armas e Muni��es",
-      "PL": 10.35,
+      "PL": 11.37,
       "liquidez_corrent": 1.1,
       "dividendos": 0,
       "LPA": 0.49
@@ -6565,7 +6565,7 @@
       "empresa": "TAURUS ARMAS PN",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "Armas e Muni��es",
-      "PL": 12.37,
+      "PL": 13.57,
       "liquidez_corrent": 1.1,
       "dividendos": 0,
       "LPA": 0.49
@@ -6585,7 +6585,7 @@
       "empresa": "TECNOSOLO S/A ON",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Engenharia Consultiva",
-      "PL": -48.76,
+      "PL": -49.65,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.06
@@ -6595,7 +6595,7 @@
       "empresa": "TECNOSOLO S/A PN",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Engenharia Consultiva",
-      "PL": -27.76,
+      "PL": -27.58,
       "liquidez_corrent": null,
       "dividendos": 0,
       "LPA": -0.06
@@ -6605,7 +6605,7 @@
       "empresa": "TECNISA ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -2.94,
+      "PL": -2.95,
       "liquidez_corrent": 1.73,
       "dividendos": 0,
       "LPA": -4.27
@@ -6625,7 +6625,7 @@
       "empresa": "TECHNOS ON NM",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Acess�rios",
-      "PL": -1.18,
+      "PL": -1.11,
       "liquidez_corrent": 2.41,
       "dividendos": 0,
       "LPA": -1.56
@@ -6645,7 +6645,7 @@
       "empresa": "TEKA S.A. ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -0.18,
+      "PL": -0.12,
       "liquidez_corrent": 0.03,
       "dividendos": 0,
       "LPA": -256.52
@@ -6655,7 +6655,7 @@
       "empresa": "TEKA S.A. PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": -0.09,
+      "PL": -0.06,
       "liquidez_corrent": 0.03,
       "dividendos": 0,
       "LPA": -256.52
@@ -6665,7 +6665,7 @@
       "empresa": "TELEBRAS ON",
       "setor": "Outros",
       "subsetor": "Outros",
-      "PL": -53.69,
+      "PL": -53.92,
       "liquidez_corrent": 4.58,
       "dividendos": 0,
       "LPA": -2.19
@@ -6675,7 +6675,7 @@
       "empresa": "TELEBRAS PN",
       "setor": "Outros",
       "subsetor": "Outros",
-      "PL": -14.49,
+      "PL": -14.4,
       "liquidez_corrent": 4.58,
       "dividendos": 0,
       "LPA": -2.19
@@ -6695,9 +6695,9 @@
       "empresa": "Tenda ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 12.91,
+      "PL": 13.67,
       "liquidez_corrent": 2.93,
-      "dividendos": 1.2,
+      "dividendos": 1.1,
       "LPA": 2.22
     },
     {
@@ -6735,7 +6735,7 @@
       "empresa": "TERRA SANTA ON NM",
       "setor": "Agropecu�ria",
       "subsetor": "Agricultura",
-      "PL": -2.28,
+      "PL": -2.3,
       "liquidez_corrent": 0.89,
       "dividendos": 0,
       "LPA": -5.43
@@ -6745,9 +6745,9 @@
       "empresa": "Tegma ON NM",
       "setor": "Transporte",
       "subsetor": "Transporte Rodovi�rio",
-      "PL": 7.95,
+      "PL": 8.25,
       "liquidez_corrent": 1.9,
-      "dividendos": 5.1,
+      "dividendos": 4.9,
       "LPA": 2.83
     },
     {
@@ -6795,9 +6795,9 @@
       "empresa": "AES TIETE E UNT N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 19.1,
+      "PL": 19.48,
       "liquidez_corrent": 0.93,
-      "dividendos": 4.6,
+      "dividendos": 4.5,
       "LPA": 0.79
     },
     {
@@ -6815,9 +6815,9 @@
       "empresa": "AES TIETE E PN N2",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 18.78,
+      "PL": 19.04,
       "liquidez_corrent": 0.93,
-      "dividendos": 4.7,
+      "dividendos": 4.6,
       "LPA": 0.16
     },
     {
@@ -6825,9 +6825,9 @@
       "empresa": "TIM PARTICIPA��ES S.A. ON",
       "setor": "Telefonia M�vel",
       "subsetor": "Telefonia M�vel",
-      "PL": 9.57,
+      "PL": 9.52,
       "liquidez_corrent": 1.21,
-      "dividendos": 2.8,
+      "dividendos": 2.9,
       "LPA": 1.51
     },
     {
@@ -6985,7 +6985,7 @@
       "empresa": "TOTVS ON NM",
       "setor": "Programas e Servi�os",
       "subsetor": "Programas e Servi�os",
-      "PL": 50.36,
+      "PL": 50.47,
       "liquidez_corrent": 2.66,
       "dividendos": 0.8,
       "LPA": 0.45
@@ -7015,7 +7015,7 @@
       "empresa": "TRIUNFO PARTICIPACOES SA ON NM",
       "setor": "Transporte",
       "subsetor": "Explora��o de Rodovias",
-      "PL": -1.42,
+      "PL": -1.47,
       "liquidez_corrent": 0.22,
       "dividendos": 0,
       "LPA": -0.9
@@ -7045,9 +7045,9 @@
       "empresa": "Trisul ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": 14.33,
+      "PL": 15.81,
       "liquidez_corrent": 3.18,
-      "dividendos": 3.9,
+      "dividendos": 3.5,
       "LPA": 0.77
     },
     {
@@ -7075,7 +7075,7 @@
       "empresa": "TRANSMISS�O PAULISTA ON N1",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 9.26,
+      "PL": 9.17,
       "liquidez_corrent": 2.21,
       "dividendos": 6.9,
       "LPA": 2.73
@@ -7085,7 +7085,7 @@
       "empresa": "TRANSMISS�O PAULISTA PN N1",
       "setor": "Energia El�trica",
       "subsetor": "Energia El�trica",
-      "PL": 7.46,
+      "PL": 7.52,
       "liquidez_corrent": 2.21,
       "dividendos": 8.5,
       "LPA": 2.73
@@ -7105,7 +7105,7 @@
       "empresa": "TUPY ON",
       "setor": "Material de Transporte",
       "subsetor": "Material Rodovi�rio",
-      "PL": 9.88,
+      "PL": 10.24,
       "liquidez_corrent": 2.31,
       "dividendos": 0,
       "LPA": 1.93
@@ -7145,7 +7145,7 @@
       "empresa": "RENAUX PN",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Fios e Tecidos",
-      "PL": 3.6,
+      "PL": 2.55,
       "liquidez_corrent": 0.18,
       "dividendos": 0,
       "LPA": 5.03
@@ -7185,9 +7185,9 @@
       "empresa": "UNICASA ON NM",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "M�veis",
-      "PL": 17.96,
+      "PL": 17.38,
       "liquidez_corrent": 2.82,
-      "dividendos": 10.9,
+      "dividendos": 11.3,
       "LPA": 0.23
     },
     {
@@ -7205,7 +7205,7 @@
       "empresa": "ULTRAPAR PARTICIPA��ES SA ON",
       "setor": "Holdings Diversificadas",
       "subsetor": "Holdings Diversificadas",
-      "PL": 69.18,
+      "PL": 67.99,
       "liquidez_corrent": 2.78,
       "dividendos": 2.4,
       "LPA": 0.27
@@ -7225,7 +7225,7 @@
       "empresa": "UNIPAR PARTICIPA��ES S.A. ON",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": 116.98,
+      "PL": 115.45,
       "liquidez_corrent": 1.34,
       "dividendos": 1.3,
       "LPA": 0.26
@@ -7235,7 +7235,7 @@
       "empresa": "UNIPAR PARTICIPA��ES S.A. PNA",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": 108.45,
+      "PL": 108.76,
       "liquidez_corrent": 1.34,
       "dividendos": 2.6,
       "LPA": 0.26
@@ -7245,9 +7245,9 @@
       "empresa": "UNIPAR PARTICIPA��ES S.A. PNB",
       "setor": "Qu�micos ",
       "subsetor": "Petroqu�micos",
-      "PL": 88.06,
+      "PL": 93.15,
       "liquidez_corrent": 1.34,
-      "dividendos": 1.9,
+      "dividendos": 1.8,
       "LPA": 0.26
     },
     {
@@ -7265,9 +7265,9 @@
       "empresa": "USIMINAS ON N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": -31.51,
+      "PL": -30.34,
       "liquidez_corrent": 3.26,
-      "dividendos": 0.6,
+      "dividendos": 0.7,
       "LPA": -0.25
     },
     {
@@ -7275,7 +7275,7 @@
       "empresa": "USIMINAS PNA N1",
       "setor": "Siderurgia e Metalurgia",
       "subsetor": "Siderurgia",
-      "PL": -28.2,
+      "PL": -28.12,
       "liquidez_corrent": 3.26,
       "dividendos": 0.8,
       "LPA": -0.25
@@ -7325,7 +7325,7 @@
       "empresa": "VALE ON NM",
       "setor": "Minera��o",
       "subsetor": "Minerais Met�licos",
-      "PL": 396.71,
+      "PL": 395.49,
       "liquidez_corrent": 1.72,
       "dividendos": 2.6,
       "LPA": 0.14
@@ -7435,19 +7435,19 @@
       "empresa": "VIVER ON NM",
       "setor": "Constru��o e Engenharia",
       "subsetor": "Constru��o Civil",
-      "PL": -0.41,
+      "PL": -0.51,
       "liquidez_corrent": 0.44,
       "dividendos": 0,
-      "LPA": -4.64
+      "LPA": -3.57
     },
     {
       "papel": "VIVT3",
       "empresa": "TELEF BRASIL ON",
       "setor": "Telefonia Fixa",
       "subsetor": "Telefonia Fixa",
-      "PL": 17.9,
+      "PL": 17.5,
       "liquidez_corrent": 1.1,
-      "dividendos": 5.4,
+      "dividendos": 5.5,
       "LPA": 2.85
     },
     {
@@ -7455,9 +7455,9 @@
       "empresa": "TELEF BRASIL PN",
       "setor": "Telefonia Fixa",
       "subsetor": "Telefonia Fixa",
-      "PL": 17.71,
+      "PL": 17.46,
       "liquidez_corrent": 1.1,
-      "dividendos": 6,
+      "dividendos": 6.1,
       "LPA": 2.85
     },
     {
@@ -7465,9 +7465,9 @@
       "empresa": "VALID ON NM",
       "setor": "Servi�os",
       "subsetor": "Servi�os Diversos",
-      "PL": 18.52,
+      "PL": 19.1,
       "liquidez_corrent": 1.67,
-      "dividendos": 6.3,
+      "dividendos": 6.1,
       "LPA": 0.6
     },
     {
@@ -7535,7 +7535,7 @@
       "empresa": "VULCABRAS S/A. ON",
       "setor": "Tecidos, Vestu�rio e Cal�ados",
       "subsetor": "Cal�ados",
-      "PL": 10.06,
+      "PL": 10.18,
       "liquidez_corrent": 4.78,
       "dividendos": 0,
       "LPA": 0.51
@@ -7555,7 +7555,7 @@
       "empresa": "VIAVAREJO ON",
       "setor": "Com�rcio",
       "subsetor": "Eletrodom�sticos",
-      "PL": -17.59,
+      "PL": -17.27,
       "liquidez_corrent": 0.77,
       "dividendos": 0,
       "LPA": -0.86
@@ -7575,7 +7575,7 @@
       "empresa": "WEG SA ON N1",
       "setor": "M�quinas e Equipamentos",
       "subsetor": "Motores, Compressores e Outros",
-      "PL": 55.49,
+      "PL": 54.76,
       "liquidez_corrent": 2.14,
       "dividendos": 0.9,
       "LPA": 0.83
@@ -7585,9 +7585,9 @@
       "empresa": "WHIRLPOOL S.A. ON",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "Eletrodom�sticos",
-      "PL": 6.1,
+      "PL": 6.22,
       "liquidez_corrent": 1.43,
-      "dividendos": 24,
+      "dividendos": 23.5,
       "LPA": 1.02
     },
     {
@@ -7595,9 +7595,9 @@
       "empresa": "WHIRLPOOL S.A. PN",
       "setor": "Utilidades Dom�sticas",
       "subsetor": "Eletrodom�sticos",
-      "PL": 6.41,
+      "PL": 6.58,
       "liquidez_corrent": 1.43,
-      "dividendos": 25.1,
+      "dividendos": 24.5,
       "LPA": 1.02
     },
     {
@@ -7625,9 +7625,9 @@
       "empresa": "WIZ S.A. ON NM",
       "setor": "Previd�ncia e Seguros",
       "subsetor": "Corretoras de Seguros",
-      "PL": 8.25,
+      "PL": 8.74,
       "liquidez_corrent": 0.7,
-      "dividendos": 6.2,
+      "dividendos": 5.8,
       "LPA": 1.32
     },
     {
@@ -7665,9 +7665,9 @@
       "empresa": "Wilson Sons DR3",
       "setor": "Transporte",
       "subsetor": "Servi�os de Apoio e Armazenagem",
-      "PL": 39.32,
+      "PL": 39.81,
       "liquidez_corrent": 1.55,
-      "dividendos": 3.6,
+      "dividendos": 3.5,
       "LPA": 0.81
     },
     {
@@ -7675,7 +7675,7 @@
       "empresa": "YDUQS PART ON",
       "setor": "Diversos",
       "subsetor": "Educacional",
-      "PL": 19,
+      "PL": 18.98,
       "liquidez_corrent": 3.41,
       "dividendos": 1.4,
       "LPA": 1.85

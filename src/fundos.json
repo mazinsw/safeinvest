@@ -9,12 +9,12 @@
       "quotes": 12203833,
       "shareholders": 21200,
       "cnpj": "01.201.140/0001-90",
-      "price": 91.99,
+      "price": 90.65,
       "value": 0.49,
       "patrimony": 85.77,
       "min52w": 65.01,
       "max52w": 109.9,
-      "valuation": -14.82,
+      "valuation": -16.44,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -97,12 +97,12 @@
       "quotes": 668732,
       "shareholders": 102,
       "cnpj": "32.065.364/0001-46",
-      "price": 99,
+      "price": 98,
       "value": 0.05,
       "patrimony": 99.38,
       "min52w": 80,
       "max52w": 119.99,
-      "valuation": -5.71,
+      "valuation": -6.67,
       "dividends": [
         {
           "base_date": "01/04/20",
@@ -136,12 +136,12 @@
       "quotes": 111177,
       "shareholders": 4040,
       "cnpj": "07.122.725/0001-00",
-      "price": 1364.01,
+      "price": 1370.1,
       "value": 0.37,
       "patrimony": 1986.05,
       "min52w": 1190,
       "max52w": 2190,
-      "valuation": -3.61,
+      "valuation": -2.83,
       "dividends": [
         {
           "base_date": "31/03/17",
@@ -224,12 +224,12 @@
       "quotes": 2860924,
       "shareholders": 47247,
       "cnpj": "28.737.771/0001-85",
-      "price": 132.99,
+      "price": 132.98,
       "value": 0.6,
       "patrimony": 94.65,
       "min52w": 70,
       "max52w": 150,
-      "valuation": 31.95,
+      "valuation": 31.79,
       "dividends": [
         {
           "base_date": "18/06/20",
@@ -400,12 +400,12 @@
       "quotes": 392374,
       "shareholders": 1880,
       "cnpj": "32.006.821/0001-21",
-      "price": 81.49,
+      "price": 80.39,
       "value": 0.32,
       "patrimony": 92.78,
       "min52w": 54,
       "max52w": 109,
-      "valuation": -19.32,
+      "valuation": -20.41,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -460,12 +460,12 @@
       "quotes": 1715200,
       "shareholders": 207,
       "cnpj": "12.809.972/0001-00",
-      "price": 113.99,
+      "price": 113.95,
       "value": 0.25,
       "patrimony": 110.84,
       "min52w": 95.01,
       "max52w": 140,
-      "valuation": 12.85,
+      "valuation": 5.52,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -548,12 +548,12 @@
       "quotes": 2234191,
       "shareholders": 4952,
       "cnpj": "29.267.567/0001-00",
-      "price": 98.42,
+      "price": 98.7,
       "value": 0.63,
       "patrimony": 99.16,
       "min52w": 67,
       "max52w": 115.5,
-      "valuation": -9.47,
+      "valuation": -9.21,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -636,12 +636,12 @@
       "quotes": 130000,
       "shareholders": 6781,
       "cnpj": "07.000.400/0001-46",
-      "price": 2639,
+      "price": 2590,
       "value": 23.16,
       "patrimony": 3136.81,
       "min52w": 1686.01,
       "max52w": 3148.96,
-      "valuation": -4.31,
+      "valuation": -6.73,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -724,12 +724,12 @@
       "quotes": 15919690,
       "shareholders": 66840,
       "cnpj": "14.410.722/0001-29",
-      "price": 160.44,
+      "price": 162.99,
       "value": 1.06,
       "patrimony": 102.06,
       "min52w": 115,
       "max52w": 171.99,
-      "valuation": 11.42,
+      "valuation": 12.41,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -812,12 +812,12 @@
       "quotes": 1590000,
       "shareholders": 7410,
       "cnpj": "12.681.340/0001-04",
-      "price": 150.8,
+      "price": 151.84,
       "value": 0.94,
       "patrimony": 110.62,
       "min52w": 91.05,
       "max52w": 156.02,
-      "valuation": 10.72,
+      "valuation": 11.65,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -900,12 +900,12 @@
       "quotes": 2710000,
       "shareholders": 2021,
       "cnpj": "10.347.985/0001-80",
-      "price": 57.85,
+      "price": 57.91,
       "value": 0.33,
       "patrimony": 57.61,
       "min52w": 42,
       "max52w": 71,
-      "valuation": -6.09,
+      "valuation": -4.97,
       "dividends": [
         {
           "base_date": "28/12/18",
@@ -988,12 +988,12 @@
       "quotes": 20562973,
       "shareholders": 198285,
       "cnpj": "11.026.627/0001-38",
-      "price": 90.23,
+      "price": 90.14,
       "value": 0.4,
       "patrimony": 81.66,
       "min52w": 49.98,
       "max52w": 118.92,
-      "valuation": 2.65,
+      "valuation": 2.2,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -1076,12 +1076,12 @@
       "quotes": 1689613,
       "shareholders": 6163,
       "cnpj": "20.216.935/0001-17",
-      "price": 195.38,
+      "price": 192.39,
       "value": 0.75,
       "patrimony": 113.43,
       "min52w": 100.2,
       "max52w": 299.74,
-      "valuation": 67.58,
+      "valuation": 63.04,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -1169,7 +1169,7 @@
       "patrimony": 105.96,
       "min52w": 66,
       "max52w": 133.92,
-      "valuation": -8.03,
+      "valuation": -11.57,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -1312,12 +1312,12 @@
       "quotes": 998405,
       "shareholders": 1776,
       "cnpj": "14.376.247/0001-11",
-      "price": 94,
+      "price": 94.94,
       "value": 0.53,
       "patrimony": 94.04,
       "min52w": 76.5,
       "max52w": 115,
-      "valuation": 7.74,
+      "valuation": 8.43,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -1400,12 +1400,12 @@
       "quotes": 700000,
       "shareholders": 2067,
       "cnpj": "15.570.431/0001-60",
-      "price": 127.99,
+      "price": 128.18,
       "value": 0.98,
       "patrimony": 95.9,
       "min52w": 99.01,
       "max52w": 141.15,
-      "valuation": 6.2,
+      "valuation": 5.94,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -1488,12 +1488,12 @@
       "quotes": 2668860,
       "shareholders": 11357,
       "cnpj": "17.324.357/0001-28",
-      "price": 93.3,
+      "price": 92,
       "value": 0.5,
       "patrimony": 90.35,
       "min52w": 65,
       "max52w": 132.07,
-      "valuation": -1.01,
+      "valuation": -2.54,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -1710,12 +1710,12 @@
       "quotes": 12566391,
       "shareholders": 9694,
       "cnpj": "20.748.515/0001-81",
-      "price": 123.58,
+      "price": 126.01,
       "value": 0.56,
       "patrimony": 95.98,
       "min52w": 85,
       "max52w": 149.5,
-      "valuation": 10.34,
+      "valuation": 12.51,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -1763,12 +1763,12 @@
       "quotes": 22918202,
       "shareholders": 93855,
       "cnpj": "08.924.783/0001-01",
-      "price": 99,
+      "price": 94.1,
       "value": 0.43,
       "patrimony": 109.8,
       "min52w": 74.9,
       "max52w": 125.27,
-      "valuation": 3.17,
+      "valuation": -1.98,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -1876,12 +1876,12 @@
       "quotes": 4810097,
       "shareholders": 6142,
       "cnpj": "29.787.928/0001-40",
-      "price": 92.36,
+      "price": 91.4,
       "value": 0.42,
       "patrimony": 97.3,
       "min52w": 60.3,
       "max52w": 109,
-      "valuation": -10.28,
+      "valuation": -11.05,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -1964,12 +1964,12 @@
       "quotes": 3384501,
       "shareholders": 20621,
       "cnpj": "11.839.593/0001-09",
-      "price": 104.95,
+      "price": 104.86,
       "value": 0.5,
       "patrimony": 99.99,
       "min52w": 69.02,
       "max52w": 135,
-      "valuation": 0,
+      "valuation": -1.51,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -2052,12 +2052,12 @@
       "quotes": 178866845,
       "shareholders": 2317,
       "cnpj": "13.584.584/0001-31",
-      "price": 0.72,
+      "price": 0.71,
       "value": 0.24,
       "patrimony": 1.4,
       "min52w": 0.69,
       "max52w": 1.79,
-      "valuation": -44.62,
+      "valuation": -43.65,
       "dividends": [
         {
           "base_date": "01/10/15",
@@ -2140,12 +2140,12 @@
       "quotes": 1415000,
       "shareholders": 3917,
       "cnpj": "17.144.039/0001-85",
-      "price": 76.34,
+      "price": 76.01,
       "value": 0.4,
       "patrimony": 85.75,
       "min52w": 60.01,
       "max52w": 100.2,
-      "valuation": 8.24,
+      "valuation": 7.07,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -2228,12 +2228,12 @@
       "quotes": 1815696,
       "shareholders": 6990,
       "cnpj": "15.799.397/0001-09",
-      "price": 88.99,
+      "price": 90,
       "value": 0.57,
       "patrimony": 98.16,
       "min52w": 60,
       "max52w": 101.4,
-      "valuation": 5.26,
+      "valuation": 6.02,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -2316,13 +2316,20 @@
       "quotes": 2949248,
       "shareholders": 3155,
       "cnpj": "13.551.286/0001-45",
-      "price": 74.52,
-      "value": 0.17,
+      "price": 72.5,
+      "value": 0.3,
       "patrimony": 94.7,
       "min52w": 48,
       "max52w": 99.98,
-      "valuation": -12.32,
+      "valuation": -12.6,
       "dividends": [
+        {
+          "base_date": "22/06/20",
+          "pay_date": "29/06/20",
+          "price": 72.5,
+          "yield": 0.41,
+          "dividend": 0.3
+        },
         {
           "base_date": "21/05/20",
           "pay_date": "28/05/20",
@@ -2385,13 +2392,6 @@
           "price": 85.1,
           "yield": 0.31,
           "dividend": 0.26
-        },
-        {
-          "base_date": "22/08/19",
-          "pay_date": "29/08/19",
-          "price": 83.75,
-          "yield": 0.51,
-          "dividend": 0.43
         }
       ]
     },
@@ -2404,12 +2404,12 @@
       "quotes": 2400000,
       "shareholders": 9440,
       "cnpj": "34.081.611/0001-23",
-      "price": 79.38,
+      "price": 78.39,
       "value": 0.35,
       "patrimony": 84.06,
       "min52w": 52,
       "max52w": 112,
-      "valuation": -27.07,
+      "valuation": -27.98,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -2457,12 +2457,12 @@
       "quotes": 3115025,
       "shareholders": 17390,
       "cnpj": "18.979.895/0001-13",
-      "price": 97.75,
+      "price": 98.75,
       "value": 0.65,
       "patrimony": 96.03,
       "min52w": 66.33,
       "max52w": 120,
-      "valuation": -4.91,
+      "valuation": -4.12,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -2545,12 +2545,12 @@
       "quotes": 690040,
       "shareholders": 1402,
       "cnpj": "31.887.401/0001-39",
-      "price": 83.5,
+      "price": 82,
       "value": 0.4,
       "patrimony": 88.89,
       "min52w": 75,
       "max52w": 114.99,
-      "valuation": -16.5,
+      "valuation": -16.75,
       "dividends": [
         {
           "base_date": "01/06/20",
@@ -2633,12 +2633,12 @@
       "quotes": 2594279,
       "shareholders": 4018,
       "cnpj": "00.762.723/0001-28",
-      "price": 54,
+      "price": 54.85,
       "value": 0.38,
       "patrimony": 53.35,
       "min52w": 41.9,
-      "max52w": 62.02,
-      "valuation": -12.89,
+      "max52w": 62,
+      "valuation": -11.49,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -2721,12 +2721,12 @@
       "quotes": 3526841,
       "shareholders": 3879,
       "cnpj": "28.729.197/0001-13",
-      "price": 92.42,
+      "price": 90.12,
       "value": 0.5,
       "patrimony": 100.3,
       "min52w": 59.8,
       "max52w": 135,
-      "valuation": -9.39,
+      "valuation": -11.65,
       "dividends": [
         {
           "base_date": "08/06/20",
@@ -2809,12 +2809,12 @@
       "quotes": 68518,
       "shareholders": 1286,
       "cnpj": "10.991.914/0001-15",
-      "price": 2470,
+      "price": 2518.99,
       "value": 20.4,
       "patrimony": 2156.72,
       "min52w": 1701,
       "max52w": 2835,
-      "valuation": 0.32,
+      "valuation": 0.24,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -2897,12 +2897,12 @@
       "quotes": 157576,
       "shareholders": 1834,
       "cnpj": "17.098.794/0001-70",
-      "price": 1522,
+      "price": 1564.9,
       "value": 10,
       "patrimony": 988.28,
       "min52w": 980,
       "max52w": 1849.99,
-      "valuation": 48.63,
+      "valuation": 51.93,
       "dividends": [
         {
           "base_date": "01/06/20",
@@ -2990,7 +2990,7 @@
       "patrimony": 767.41,
       "min52w": 280,
       "max52w": 408.95,
-      "valuation": -6.33,
+      "valuation": -6.8,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -3073,12 +3073,12 @@
       "quotes": 156108,
       "shareholders": 469,
       "cnpj": "30.579.348/0001-46",
-      "price": 409,
+      "price": 410,
       "value": 2.93,
       "patrimony": 700.75,
       "min52w": 370,
       "max52w": 800,
-      "valuation": -43.59,
+      "valuation": -45.26,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -3166,7 +3166,7 @@
       "patrimony": 999.05,
       "min52w": 448.06,
       "max52w": 690,
-      "valuation": 13.33,
+      "valuation": 6.36,
       "dividends": [
         {
           "base_date": "01/05/16",
@@ -3253,8 +3253,8 @@
       "value": 0.3,
       "patrimony": 129.87,
       "min52w": 100.02,
-      "max52w": 189.95,
-      "valuation": -27.35,
+      "max52w": 186.97,
+      "valuation": -22.47,
       "dividends": [
         {
           "base_date": "04/06/20",
@@ -3337,12 +3337,12 @@
       "quotes": 236000,
       "shareholders": 668,
       "cnpj": "06.175.262/0001-73",
-      "price": 260,
+      "price": 264.78,
       "value": 1.53,
       "patrimony": 203.14,
       "min52w": 203.98,
       "max52w": 315,
-      "valuation": -15.84,
+      "valuation": -11.74,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -3425,12 +3425,12 @@
       "quotes": 3812055,
       "shareholders": 7313,
       "cnpj": "15.333.306/0001-37",
-      "price": 36.15,
+      "price": 35.8,
       "value": 0.11,
       "patrimony": 78.91,
       "min52w": 26.99,
       "max52w": 62.99,
-      "valuation": -25.43,
+      "valuation": -24.85,
       "dividends": [
         {
           "base_date": "22/05/20",
@@ -3513,12 +3513,12 @@
       "quotes": 383936,
       "shareholders": 1900,
       "cnpj": "05.437.916/0001-27",
-      "price": 189.5,
+      "price": 195,
       "value": 0.7,
       "patrimony": 306.78,
       "min52w": 102.01,
       "max52w": 220,
-      "valuation": 25.5,
+      "valuation": 29.99,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -3601,12 +3601,12 @@
       "quotes": 642168,
       "shareholders": 5136,
       "cnpj": "11.179.118/0001-45",
-      "price": 215.9,
+      "price": 216,
       "value": 1.29,
       "patrimony": 205.04,
       "min52w": 130.11,
       "max52w": 308.48,
-      "valuation": -13.98,
+      "valuation": -12.91,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -3689,12 +3689,12 @@
       "quotes": 104800,
       "shareholders": 3923,
       "cnpj": "05.562.312/0001-02",
-      "price": 3599.94,
+      "price": 3585.03,
       "value": 32.18,
       "patrimony": 3503.98,
       "min52w": 1980,
       "max52w": 3997.94,
-      "valuation": 23.62,
+      "valuation": 16.1,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -3777,12 +3777,12 @@
       "quotes": 3340000,
       "shareholders": 4143,
       "cnpj": "11.602.654/0001-01",
-      "price": 106.59,
+      "price": 106,
       "value": 0.51,
       "patrimony": 106.18,
       "min52w": 90.12,
       "max52w": 150.13,
-      "valuation": -11.91,
+      "valuation": -13.26,
       "dividends": [
         {
           "base_date": "18/06/20",
@@ -3865,12 +3865,12 @@
       "quotes": 2443535,
       "shareholders": 8467,
       "cnpj": "09.552.812/0001-14",
-      "price": 107.8,
+      "price": 107.99,
       "value": 0.8,
       "patrimony": 98.73,
       "min52w": 60,
       "max52w": 123.98,
-      "valuation": -8.83,
+      "valuation": -8.88,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -3953,12 +3953,12 @@
       "quotes": 2850000,
       "shareholders": 18384,
       "cnpj": "17.590.518/0001-25",
-      "price": 64.98,
+      "price": 64.41,
       "value": 0.05,
       "patrimony": 97.83,
       "min52w": 41,
       "max52w": 95,
-      "valuation": -5.69,
+      "valuation": -6.61,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -4041,12 +4041,12 @@
       "quotes": 685000,
       "shareholders": 17887,
       "cnpj": "14.217.108/0001-45",
-      "price": 493.59,
+      "price": 490,
       "value": 1.7,
       "patrimony": 423.26,
       "min52w": 370.06,
       "max52w": 598.99,
-      "valuation": 6.84,
+      "valuation": 6.06,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -4129,12 +4129,12 @@
       "quotes": 927162,
       "shareholders": 6705,
       "cnpj": "08.696.175/0001-97",
-      "price": 199.76,
+      "price": 200.76,
       "value": 1.16,
       "patrimony": 210.35,
       "min52w": 126,
       "max52w": 214.85,
-      "valuation": 1.92,
+      "valuation": 3.38,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -4242,12 +4242,12 @@
       "quotes": 69033500,
       "shareholders": 63143,
       "cnpj": "04.141.645/0001-03",
-      "price": 3.49,
+      "price": 3.5,
       "value": 0,
       "patrimony": 2.9,
       "min52w": 2.22,
       "max52w": 6.49,
-      "valuation": -2.79,
+      "valuation": -2.23,
       "dividends": [
         {
           "base_date": "04/06/20",
@@ -4330,12 +4330,12 @@
       "quotes": 59815,
       "shareholders": 928,
       "cnpj": "10.375.382/0001-91",
-      "price": 1400,
+      "price": 1450,
       "value": 13.52,
-      "patrimony": 1605.07,
+      "patrimony": 1605.44,
       "min52w": 1099.99,
       "max52w": 1762,
-      "valuation": 8.28,
+      "valuation": 13.73,
       "dividends": [
         {
           "base_date": "19/02/20",
@@ -4418,12 +4418,12 @@
       "quotes": 508008,
       "shareholders": 350,
       "cnpj": "01.633.741/0001-72",
-      "price": 88,
+      "price": 89.5,
       "value": 0.27,
       "patrimony": 131.08,
       "min52w": 78,
       "max52w": 123,
-      "valuation": 6.01,
+      "valuation": 7.83,
       "dividends": [
         {
           "base_date": "30/12/19",
@@ -4498,94 +4498,6 @@
       ]
     },
     {
-      "fundSymbol": "FOFT11",
-      "name": "FII HTOPFOF2",
-      "type": "Papel: Fundo de Fundos",
-      "category": "Títulos e Valores Mobiliários Gestão Ativa",
-      "register_date": "10/05/2013",
-      "quotes": 1196040,
-      "shareholders": 3055,
-      "cnpj": "16.875.388/0001-04",
-      "price": 123,
-      "value": 1.15,
-      "patrimony": 104.98,
-      "min52w": 92,
-      "max52w": 123.5,
-      "valuation": 28.8,
-      "dividends": [
-        {
-          "base_date": "29/11/19",
-          "pay_date": "13/12/19",
-          "price": 111.26,
-          "yield": 1.03,
-          "dividend": 1.15
-        },
-        {
-          "base_date": "31/10/19",
-          "pay_date": "14/11/19",
-          "price": 101,
-          "yield": 0.84,
-          "dividend": 0.85
-        },
-        {
-          "base_date": "30/09/19",
-          "pay_date": "14/10/19",
-          "price": 96.91,
-          "yield": 0.72,
-          "dividend": 0.7
-        },
-        {
-          "base_date": "30/08/19",
-          "pay_date": "13/09/19",
-          "price": 95.49,
-          "yield": 0.59,
-          "dividend": 0.56
-        },
-        {
-          "base_date": "31/07/19",
-          "pay_date": "14/08/19",
-          "price": 96,
-          "yield": 0.55,
-          "dividend": 0.53
-        },
-        {
-          "base_date": "28/06/19",
-          "pay_date": "15/07/19",
-          "price": 97,
-          "yield": 0.88,
-          "dividend": 0.85
-        },
-        {
-          "base_date": "31/05/19",
-          "pay_date": "14/06/19",
-          "price": 93.9,
-          "yield": 0.75,
-          "dividend": 0.7
-        },
-        {
-          "base_date": "30/04/19",
-          "pay_date": "15/05/19",
-          "price": 92,
-          "yield": 0.6,
-          "dividend": 0.55
-        },
-        {
-          "base_date": "29/03/19",
-          "pay_date": "12/04/19",
-          "price": 92.4,
-          "yield": 0.6,
-          "dividend": 0.55
-        },
-        {
-          "base_date": "28/02/19",
-          "pay_date": "18/03/19",
-          "price": 90.25,
-          "yield": 0.59,
-          "dividend": 0.53
-        }
-      ]
-    },
-    {
       "fundSymbol": "FPAB11",
       "name": "FII A BRANCA",
       "type": "Tijolo: Escritórios",
@@ -4594,12 +4506,12 @@
       "quotes": 750000,
       "shareholders": 982,
       "cnpj": "03.251.720/0001-18",
-      "price": 330.02,
+      "price": 330.1,
       "value": 1.7,
       "patrimony": 413.86,
       "min52w": 300,
       "max52w": 419.99,
-      "valuation": -3.5,
+      "valuation": -4.04,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -4770,12 +4682,12 @@
       "quotes": 2150000,
       "shareholders": 4071,
       "cnpj": "13.022.993/0001-44",
-      "price": 148.5,
+      "price": 150,
       "value": 0.6,
       "patrimony": 159.73,
       "min52w": 121.99,
       "max52w": 167.99,
-      "valuation": 12.5,
+      "valuation": 14.07,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -4858,12 +4770,12 @@
       "quotes": 2800149,
       "shareholders": 5413,
       "cnpj": "00.332.266/0001-31",
-      "price": 172.9,
+      "price": 170,
       "value": 0.87,
       "patrimony": 216.88,
       "min52w": 123,
       "max52w": 228.49,
-      "valuation": -2.87,
+      "valuation": -2.02,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -4946,12 +4858,12 @@
       "quotes": 6503028,
       "shareholders": 72641,
       "cnpj": "26.614.291/0001-00",
-      "price": 130.3,
+      "price": 129.89,
       "value": 0.71,
       "patrimony": 118.94,
       "min52w": 83.5,
       "max52w": 153.17,
-      "valuation": -5.58,
+      "valuation": -5.4,
       "dividends": [
         {
           "base_date": "01/06/20",
@@ -5034,12 +4946,12 @@
       "quotes": 1073530,
       "shareholders": 2480,
       "cnpj": "17.143.998/0001-86",
-      "price": 128.6,
+      "price": 129,
       "value": 0.64,
       "patrimony": 131.82,
       "min52w": 83,
       "max52w": 140,
-      "valuation": 14.56,
+      "valuation": 13.25,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5122,12 +5034,12 @@
       "quotes": 12000000,
       "shareholders": 15780,
       "cnpj": "23.740.527/0001-58",
-      "price": 119,
+      "price": 120,
       "value": 0.69,
       "patrimony": 98.1,
       "min52w": 80,
       "max52w": 122.8,
-      "valuation": 16.68,
+      "valuation": 17.66,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5210,12 +5122,12 @@
       "quotes": 3828572,
       "shareholders": 10236,
       "cnpj": "30.578.417/0001-05",
-      "price": 100.1,
+      "price": 99.5,
       "value": 0.7,
       "patrimony": 100.74,
       "min52w": 75.61,
       "max52w": 129.49,
-      "valuation": 0.09,
+      "valuation": -0.51,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5291,12 +5203,12 @@
       "quotes": 2245672,
       "shareholders": 89,
       "cnpj": "30.871.698/0001-81",
-      "price": 99.75,
+      "price": 99.98,
       "value": 0.7,
       "patrimony": 98.44,
       "min52w": 97,
       "max52w": 105,
-      "valuation": -0.26,
+      "valuation": -0.03,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5337,7 +5249,7 @@
       "quotes": 180214,
       "shareholders": 143,
       "cnpj": "26.846.202/0001-42",
-      "price": 1200.01,
+      "price": 1200,
       "value": 6,
       "patrimony": 943.56,
       "min52w": 1100,
@@ -5425,12 +5337,12 @@
       "quotes": 200000,
       "shareholders": 3002,
       "cnpj": "04.066.582/0001-60",
-      "price": 401.5,
+      "price": 406.5,
       "value": 2.63,
       "patrimony": 291.97,
       "min52w": 315,
       "max52w": 498.99,
-      "valuation": 14.09,
+      "valuation": 23,
       "dividends": [
         {
           "base_date": "12/06/20",
@@ -5513,12 +5425,12 @@
       "quotes": 1923847,
       "shareholders": 9842,
       "cnpj": "30.248.180/0001-96",
-      "price": 124.33,
+      "price": 128.75,
       "value": 1.11,
       "patrimony": 115.59,
       "min52w": 85,
       "max52w": 177.6,
-      "valuation": 11.81,
+      "valuation": 15.78,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -5601,12 +5513,12 @@
       "quotes": 15850000,
       "shareholders": 39805,
       "cnpj": "18.307.582/0001-19",
-      "price": 113.7,
+      "price": 112.8,
       "value": 0.9,
       "patrimony": 98.15,
       "min52w": 80,
       "max52w": 130,
-      "valuation": 5.78,
+      "valuation": 4.88,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5689,12 +5601,12 @@
       "quotes": 10000000,
       "shareholders": 63967,
       "cnpj": "08.431.747/0001-06",
-      "price": 219.68,
+      "price": 219.63,
       "value": 0.35,
       "patrimony": 224.65,
       "min52w": 142.5,
       "max52w": 306.99,
-      "valuation": -14.85,
+      "valuation": -14.71,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5777,12 +5689,12 @@
       "quotes": 12372450,
       "shareholders": 58600,
       "cnpj": "11.160.521/0001-22",
-      "price": 107.26,
+      "price": 107.59,
       "value": 0.56,
       "patrimony": 104.63,
       "min52w": 70,
       "max52w": 136.99,
-      "valuation": -9.84,
+      "valuation": -10,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5865,12 +5777,12 @@
       "quotes": 1800000,
       "shareholders": 4523,
       "cnpj": "32.784.898/0001-22",
-      "price": 100.6,
+      "price": 98.08,
       "value": 0.5,
       "patrimony": 95.52,
       "min52w": 49.88,
       "max52w": 124.98,
-      "valuation": -2.99,
+      "valuation": -5.42,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -5953,12 +5865,12 @@
       "quotes": 11882212,
       "shareholders": 188811,
       "cnpj": "11.728.688/0001-47",
-      "price": 191.53,
+      "price": 188.08,
       "value": 0.78,
       "patrimony": 133.85,
       "min52w": 107.5,
       "max52w": 221.98,
-      "valuation": 28.54,
+      "valuation": 26.82,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6041,12 +5953,12 @@
       "quotes": 1650000,
       "shareholders": 8514,
       "cnpj": "11.260.134/0001-68",
-      "price": 210.95,
+      "price": 210.42,
       "value": 0.89,
       "patrimony": 203.61,
       "min52w": 156,
       "max52w": 230.29,
-      "valuation": 15.46,
+      "valuation": 15.62,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6129,12 +6041,12 @@
       "quotes": 10812161,
       "shareholders": 87389,
       "cnpj": "09.072.017/0001-29",
-      "price": 150.17,
+      "price": 149.99,
       "value": 0.57,
       "patrimony": 163.27,
       "min52w": 104,
       "max52w": 220,
-      "valuation": -5.2,
+      "valuation": -6.26,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6217,12 +6129,12 @@
       "quotes": 9740679,
       "shareholders": 45058,
       "cnpj": "29.641.226/0001-53",
-      "price": 130.5,
+      "price": 130.48,
       "value": 0.68,
       "patrimony": 107.71,
       "min52w": 80.02,
       "max52w": 144.3,
-      "valuation": 21.56,
+      "valuation": 21.49,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6492,12 +6404,12 @@
       "quotes": 15780613,
       "shareholders": 75727,
       "cnpj": "32.892.018/0001-31",
-      "price": 91,
+      "price": 90.52,
       "value": 0.18,
       "patrimony": 95.88,
       "min52w": 52.5,
       "max52w": 127.7,
-      "valuation": -10.87,
+      "valuation": -11.34,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6580,12 +6492,12 @@
       "quotes": 1257022,
       "shareholders": 21256,
       "cnpj": "08.706.065/0001-69",
-      "price": 132.76,
+      "price": 130,
       "value": 0.71,
       "patrimony": 145.65,
       "min52w": 79.5,
       "max52w": 208,
-      "valuation": -28.28,
+      "valuation": -31.87,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -6668,12 +6580,12 @@
       "quotes": 725821,
       "shareholders": 496,
       "cnpj": "28.851.767/0001-43",
-      "price": 138,
+      "price": 139,
       "value": 0.59,
       "patrimony": 99.5,
       "min52w": 106.5,
       "max52w": 161.56,
-      "valuation": -6.76,
+      "valuation": -7.33,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -6707,12 +6619,12 @@
       "quotes": 666681,
       "shareholders": 3129,
       "cnpj": "33.721.517/0001-29",
-      "price": 80.35,
+      "price": 79.04,
       "value": 0.5,
       "patrimony": 86.41,
       "min52w": 55,
       "max52w": 110,
-      "valuation": -19.25,
+      "valuation": -20.56,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -6788,12 +6700,12 @@
       "quotes": 7968099,
       "shareholders": 54981,
       "cnpj": "28.830.325/0001-10",
-      "price": 114.6,
+      "price": 115.55,
       "value": 0.77,
       "patrimony": 96.44,
       "min52w": 90,
       "max52w": 144.5,
-      "valuation": 1.42,
+      "valuation": 2.37,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -7010,12 +6922,12 @@
       "quotes": 2522968,
       "shareholders": 6140,
       "cnpj": "14.879.856/0001-93",
-      "price": 77.75,
+      "price": 76.05,
       "value": 0.4,
       "patrimony": 90.02,
       "min52w": 51,
       "max52w": 119,
-      "valuation": -5.14,
+      "valuation": -6.92,
       "dividends": [
         {
           "base_date": "06/03/20",
@@ -7098,12 +7010,12 @@
       "quotes": 20767328,
       "shareholders": 41134,
       "cnpj": "13.371.132/0001-71",
-      "price": 101.55,
+      "price": 100.92,
       "value": 0.46,
       "patrimony": 112.11,
       "min52w": 65.59,
       "max52w": 124.99,
-      "valuation": -8.1,
+      "valuation": -8.67,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7191,7 +7103,7 @@
       "patrimony": 104.46,
       "min52w": 70,
       "max52w": 160,
-      "valuation": 4.28,
+      "valuation": 4.16,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7274,12 +7186,12 @@
       "quotes": 7147934,
       "shareholders": 206,
       "cnpj": "24.070.076/0001-51",
-      "price": 12.44,
+      "price": 12.4,
       "value": 0.15,
       "patrimony": 10.2,
       "min52w": 10.01,
       "max52w": 24,
-      "valuation": -11.14,
+      "valuation": -11.43,
       "dividends": [
         {
           "base_date": "30/12/19",
@@ -7313,12 +7225,12 @@
       "quotes": 39097087,
       "shareholders": 64294,
       "cnpj": "16.706.958/0001-32",
-      "price": 93.9,
+      "price": 93.18,
       "value": 0.3,
       "patrimony": 103.75,
       "min52w": 63.5,
       "max52w": 108.2,
-      "valuation": -10.57,
+      "valuation": -11.25,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7401,12 +7313,12 @@
       "quotes": 10690843,
       "shareholders": 4912,
       "cnpj": "30.130.708/0001-28",
-      "price": 112.7,
+      "price": 111.8,
       "value": 0.3,
       "patrimony": 109.71,
       "min52w": 82.5,
       "max52w": 139.49,
-      "valuation": -13.29,
+      "valuation": -13.06,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7489,12 +7401,12 @@
       "quotes": 32801764,
       "shareholders": 21956,
       "cnpj": "24.960.430/0001-13",
-      "price": 112,
+      "price": 112.8,
       "value": 0.4,
       "patrimony": 112.47,
       "min52w": 75.05,
       "max52w": 122.6,
-      "valuation": -5.48,
+      "valuation": -6.16,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7577,12 +7489,12 @@
       "quotes": 18547161,
       "shareholders": 6259,
       "cnpj": "14.423.780/0001-97",
-      "price": 4.53,
+      "price": 4.41,
       "value": 0.26,
       "patrimony": 3.97,
       "min52w": 3.69,
-      "max52w": 7.36,
-      "valuation": -34.35,
+      "max52w": 7.2,
+      "valuation": -36.46,
       "dividends": [
         {
           "base_date": "31/10/19",
@@ -7665,12 +7577,12 @@
       "quotes": 23600802,
       "shareholders": 194824,
       "cnpj": "12.005.956/0001-65",
-      "price": 167.65,
+      "price": 167.3,
       "value": 0.65,
       "patrimony": 159.66,
       "min52w": 119.31,
       "max52w": 200,
-      "valuation": 10.3,
+      "valuation": 9.7,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7753,12 +7665,12 @@
       "quotes": 2518195,
       "shareholders": 58,
       "cnpj": "30.248.158/0001-46",
-      "price": 89.99,
+      "price": 94,
       "value": 0.15,
       "patrimony": 97.29,
       "min52w": 80,
       "max52w": 105,
-      "valuation": -8.17,
+      "valuation": -4.08,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7873,12 +7785,12 @@
       "quotes": 1762843,
       "shareholders": 4513,
       "cnpj": "34.598.181/0001-11",
-      "price": 101.95,
+      "price": 101.77,
       "value": 0.47,
       "patrimony": 96.29,
       "min52w": 73.81,
       "max52w": 131.44,
-      "valuation": -1.02,
+      "valuation": -1.19,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -7938,7 +7850,7 @@
       "patrimony": 90.15,
       "min52w": 95.25,
       "max52w": 112,
-      "valuation": 3.7,
+      "valuation": 1.86,
       "dividends": [
         {
           "base_date": "31/03/20",
@@ -7972,12 +7884,12 @@
       "quotes": 900000,
       "shareholders": 4142,
       "cnpj": "34.835.191/0001-23",
-      "price": 107,
+      "price": 107.05,
       "value": 0.5,
       "patrimony": 96.02,
       "min52w": 86,
       "max52w": 148,
-      "valuation": -11.56,
+      "valuation": -11.52,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -8032,12 +7944,12 @@
       "quotes": 7537889,
       "shareholders": 25657,
       "cnpj": "30.629.603/0001-18",
-      "price": 124,
+      "price": 120.71,
       "value": 0.6,
       "patrimony": 102.85,
       "min52w": 69.2,
       "max52w": 147.35,
-      "valuation": 11.91,
+      "valuation": 8.75,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -8120,12 +8032,12 @@
       "quotes": 7560351,
       "shareholders": 60563,
       "cnpj": "26.499.833/0001-32",
-      "price": 90.42,
+      "price": 90.33,
       "value": 0.11,
       "patrimony": 105.72,
       "min52w": 48.01,
       "max52w": 136.5,
-      "valuation": -10.4,
+      "valuation": -10.12,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -8208,12 +8120,12 @@
       "quotes": 59245,
       "shareholders": 2653,
       "cnpj": "11.274.415/0001-70",
-      "price": 1871.99,
+      "price": 1960,
       "value": 12.54,
       "patrimony": 2258.29,
       "min52w": 1400,
       "max52w": 2575,
-      "valuation": -20.27,
+      "valuation": -16.52,
       "dividends": [
         {
           "base_date": "07/04/20",
@@ -8301,7 +8213,7 @@
       "patrimony": 1285.04,
       "min52w": 801.01,
       "max52w": 1440,
-      "valuation": 4.29,
+      "valuation": 3.22,
       "dividends": [
         {
           "base_date": "04/06/20",
@@ -8384,12 +8296,12 @@
       "quotes": 7236625,
       "shareholders": 8859,
       "cnpj": "23.648.935/0001-84",
-      "price": 97.9,
+      "price": 96.78,
       "value": 0.6,
       "patrimony": 98.53,
       "min52w": 59.33,
       "max52w": 120.18,
-      "valuation": -7.51,
+      "valuation": -8.57,
       "dividends": [
         {
           "base_date": "10/06/20",
@@ -8444,12 +8356,12 @@
       "quotes": 2502613,
       "shareholders": 21596,
       "cnpj": "16.915.968/0001-88",
-      "price": 125.1,
+      "price": 124.89,
       "value": 1.01,
       "patrimony": 113.33,
       "min52w": 83.5,
       "max52w": 139.55,
-      "valuation": 7.84,
+      "valuation": 4.09,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -8532,12 +8444,12 @@
       "quotes": 7847828,
       "shareholders": 47741,
       "cnpj": "29.216.463/0001-77",
-      "price": 97.35,
+      "price": 96.45,
       "value": 0.6,
       "patrimony": 81.38,
       "min52w": 59.99,
       "max52w": 133.03,
-      "valuation": -1.71,
+      "valuation": -2.8,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -8684,12 +8596,12 @@
       "quotes": 122942210,
       "shareholders": 168418,
       "cnpj": "97.521.225/0001-25",
-      "price": 10.9,
+      "price": 10.81,
       "value": 0.07,
       "patrimony": 10.25,
       "min52w": 7.71,
       "max52w": 14.99,
-      "valuation": -9.02,
+      "valuation": -10.14,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -8772,12 +8684,12 @@
       "quotes": 855793,
       "shareholders": 324,
       "cnpj": "32.527.626/0001-47",
-      "price": 97.96,
+      "price": 96.41,
       "value": 0.7,
       "patrimony": 102.53,
       "min52w": 81,
       "max52w": 144.99,
-      "valuation": -20.94,
+      "valuation": -22.19,
       "dividends": [
         {
           "base_date": "31/03/20",
@@ -8832,12 +8744,12 @@
       "quotes": 742000,
       "shareholders": 2130,
       "cnpj": "14.793.782/0001-78",
-      "price": 40.02,
+      "price": 51.96,
       "value": 0.04,
       "patrimony": 89.19,
       "min52w": 40.02,
       "max52w": 82,
-      "valuation": -41.58,
+      "valuation": -24.13,
       "dividends": [
         {
           "base_date": "31/01/20",
@@ -8980,12 +8892,12 @@
       "quotes": 1144800,
       "shareholders": 5493,
       "cnpj": "08.014.513/0001-63",
-      "price": 265,
+      "price": 266.54,
       "value": 1.74,
       "patrimony": 190.76,
       "min52w": 190.74,
-      "max52w": 269.99,
-      "valuation": 2.96,
+      "max52w": 275,
+      "valuation": 5.33,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9068,12 +8980,12 @@
       "quotes": 41494533,
       "shareholders": 2088,
       "cnpj": "17.025.970/0001-44",
-      "price": 11.85,
+      "price": 12,
       "value": 0.06,
       "patrimony": 7.84,
       "min52w": 7.5,
       "max52w": 30.5,
-      "valuation": -60.7,
+      "valuation": -60.13,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9156,12 +9068,12 @@
       "quotes": 911000,
       "shareholders": 5295,
       "cnpj": "12.948.291/0001-23",
-      "price": 149.5,
+      "price": 149.52,
       "value": 0.62,
       "patrimony": 154.29,
       "min52w": 124.75,
       "max52w": 204.93,
-      "valuation": 2.15,
+      "valuation": 1.74,
       "dividends": [
         {
           "base_date": "04/06/20",
@@ -9269,12 +9181,12 @@
       "quotes": 831837,
       "shareholders": 1887,
       "cnpj": "28.516.650/0001-03",
-      "price": 90.05,
+      "price": 90.07,
       "value": 0.55,
       "patrimony": 98.61,
       "min52w": 60.1,
       "max52w": 104.9,
-      "valuation": -4.1,
+      "valuation": -3.17,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -9357,12 +9269,12 @@
       "quotes": 671598,
       "shareholders": 1880,
       "cnpj": "30.791.386/0001-68",
-      "price": 104,
+      "price": 102.5,
       "value": 0.76,
       "patrimony": 92.68,
       "min52w": 60,
       "max52w": 114.5,
-      "valuation": 4,
+      "valuation": 2.5,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -9445,12 +9357,12 @@
       "quotes": 2054111,
       "shareholders": 13691,
       "cnpj": "26.091.656/0001-50",
-      "price": 108.5,
+      "price": 109.98,
       "value": 0.63,
       "patrimony": 101.8,
       "min52w": 47,
       "max52w": 123.5,
-      "valuation": 1.17,
+      "valuation": 2.02,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9533,12 +9445,12 @@
       "quotes": 2481284,
       "shareholders": 2776,
       "cnpj": "13.974.819/0001-00",
-      "price": 100.5,
+      "price": 99.99,
       "value": 0.66,
       "patrimony": 96.6,
       "min52w": 60,
       "max52w": 125.5,
-      "valuation": -5.19,
+      "valuation": -5.85,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -9621,12 +9533,12 @@
       "quotes": 758400,
       "shareholders": 514,
       "cnpj": "00.613.094/0001-74",
-      "price": 13.12,
+      "price": 13.49,
       "value": 0.13,
       "patrimony": 0,
       "min52w": 6.05,
       "max52w": 27.07,
-      "valuation": -44.43,
+      "valuation": -46.02,
       "dividends": [
         {
           "base_date": "01/01/13",
@@ -9709,12 +9621,12 @@
       "quotes": 3477434,
       "shareholders": 18222,
       "cnpj": "30.048.651/0001-12",
-      "price": 92.25,
+      "price": 92.5,
       "value": 0.22,
       "patrimony": 99.38,
       "min52w": 63.5,
       "max52w": 159.85,
-      "valuation": -7.93,
+      "valuation": -7.51,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9797,12 +9709,12 @@
       "quotes": 2109169,
       "shareholders": 4086,
       "cnpj": "32.527.683/0001-26",
-      "price": 81.98,
+      "price": 81.26,
       "value": 0.25,
       "patrimony": 95.96,
       "min52w": 56,
       "max52w": 100.5,
-      "valuation": -17.61,
+      "valuation": -18.33,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9864,12 +9776,12 @@
       "quotes": 954304,
       "shareholders": 735,
       "cnpj": "14.080.689/0001-16",
-      "price": 39.94,
+      "price": 39.97,
       "value": 0.23,
       "patrimony": 62.34,
       "min52w": 35,
       "max52w": 70,
-      "valuation": -35.99,
+      "valuation": -36.56,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -9952,12 +9864,12 @@
       "quotes": 1972845,
       "shareholders": 3061,
       "cnpj": "17.156.502/0001-09",
-      "price": 92.92,
+      "price": 92,
       "value": 0.5,
       "patrimony": 100.94,
       "min52w": 67.08,
       "max52w": 115.84,
-      "valuation": -18.23,
+      "valuation": -18.94,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -10040,12 +9952,12 @@
       "quotes": 238477,
       "shareholders": 4404,
       "cnpj": "10.869.155/0001-12",
-      "price": 3099.98,
+      "price": 3062.12,
       "value": 14.47,
       "patrimony": 3396.74,
       "min52w": 2150,
       "max52w": 4000,
-      "valuation": -0.96,
+      "valuation": -2.54,
       "dividends": [
         {
           "base_date": "31/03/20",
@@ -10128,12 +10040,12 @@
       "quotes": 51699979,
       "shareholders": 1061,
       "cnpj": "14.056.001/0001-62",
-      "price": 1.03,
+      "price": 1.04,
       "value": 0.01,
       "patrimony": 0.4,
       "min52w": 0.36,
       "max52w": 6.35,
-      "valuation": 186.11,
+      "valuation": 188.89,
       "dividends": [
         {
           "base_date": "08/01/20",
@@ -10216,12 +10128,12 @@
       "quotes": 195000,
       "shareholders": 1337,
       "cnpj": "11.281.322/0001-72",
-      "price": 322.12,
+      "price": 330,
       "value": 2.25,
       "patrimony": 394.85,
       "min52w": 300,
       "max52w": 468.99,
-      "valuation": -29.36,
+      "valuation": -27.63,
       "dividends": [
         {
           "base_date": "10/06/20",
@@ -10304,12 +10216,12 @@
       "quotes": 5040000,
       "shareholders": 14046,
       "cnpj": "32.754.734/0001-52",
-      "price": 87.2,
+      "price": 86.51,
       "value": 0.25,
       "patrimony": 95.9,
       "min52w": 58,
       "max52w": 123,
-      "valuation": -14.84,
+      "valuation": -15.52,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -10364,12 +10276,12 @@
       "quotes": 1254164,
       "shareholders": 2910,
       "cnpj": "16.915.868/0001-51",
-      "price": 90.74,
+      "price": 91.78,
       "value": 0.15,
       "patrimony": 99.91,
       "min52w": 80,
       "max52w": 97.96,
-      "valuation": 9.04,
+      "valuation": 10.31,
       "dividends": [
         {
           "base_date": "04/05/20",
@@ -10444,94 +10356,6 @@
       ]
     },
     {
-      "fundSymbol": "RBCB11",
-      "name": "FII RIOBRCIB",
-      "type": "Papel: CRIs",
-      "category": "Renda Gestão Ativa",
-      "register_date": "04/10/2010",
-      "quotes": 53100,
-      "shareholders": 462,
-      "cnpj": "12.659.641/0001-31",
-      "price": 19,
-      "value": 0.3,
-      "patrimony": 0,
-      "min52w": 17.29,
-      "max52w": 50.1,
-      "valuation": -57.68,
-      "dividends": [
-        {
-          "base_date": "31/05/19",
-          "pay_date": "10/06/19",
-          "price": 171,
-          "yield": 0.18,
-          "dividend": 0.3
-        },
-        {
-          "base_date": "30/04/19",
-          "pay_date": "09/05/19",
-          "price": 209,
-          "yield": 0.11,
-          "dividend": 0.23
-        },
-        {
-          "base_date": "29/03/19",
-          "pay_date": "08/04/19",
-          "price": 198,
-          "yield": 0.62,
-          "dividend": 1.22
-        },
-        {
-          "base_date": "28/02/19",
-          "pay_date": "12/03/19",
-          "price": 205,
-          "yield": 1.67,
-          "dividend": 3.43
-        },
-        {
-          "base_date": "31/01/19",
-          "pay_date": "08/02/19",
-          "price": 206,
-          "yield": 1.81,
-          "dividend": 3.72
-        },
-        {
-          "base_date": "28/12/18",
-          "pay_date": "09/01/19",
-          "price": 235,
-          "yield": 1.72,
-          "dividend": 4.05
-        },
-        {
-          "base_date": "31/10/18",
-          "pay_date": "09/11/18",
-          "price": 224,
-          "yield": 1.12,
-          "dividend": 2.5
-        },
-        {
-          "base_date": "28/09/18",
-          "pay_date": "08/10/18",
-          "price": 223,
-          "yield": 1.97,
-          "dividend": 4.4
-        },
-        {
-          "base_date": "31/08/18",
-          "pay_date": "11/09/18",
-          "price": 215,
-          "yield": 1.77,
-          "dividend": 3.8
-        },
-        {
-          "base_date": "31/07/18",
-          "pay_date": "08/08/18",
-          "price": 230,
-          "yield": 1.83,
-          "dividend": 4.2
-        }
-      ]
-    },
-    {
       "fundSymbol": "RBCO11",
       "name": "FII R INCOME",
       "type": "Tijolo: Escritórios",
@@ -10540,12 +10364,12 @@
       "quotes": 3779001,
       "shareholders": 2615,
       "cnpj": "31.894.369/0001-19",
-      "price": 86,
+      "price": 85.96,
       "value": 0.37,
       "patrimony": 102.37,
       "min52w": 74.99,
       "max52w": 120,
-      "valuation": -20.36,
+      "valuation": -20.39,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -10621,12 +10445,12 @@
       "quotes": 126523,
       "shareholders": 1090,
       "cnpj": "11.945.604/0001-27",
-      "price": 39.2,
+      "price": 38.88,
       "value": 1.84,
       "patrimony": 22.89,
       "min52w": 25.25,
       "max52w": 225.8,
-      "valuation": -80.64,
+      "valuation": -81.49,
       "dividends": [
         {
           "base_date": "29/11/19",
@@ -10709,12 +10533,12 @@
       "quotes": 1787281,
       "shareholders": 8793,
       "cnpj": "13.873.457/0001-52",
-      "price": 169.07,
+      "price": 168.5,
       "value": 1,
       "patrimony": 149.74,
       "min52w": 115.12,
       "max52w": 186,
-      "valuation": -6.59,
+      "valuation": -7.38,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -10797,12 +10621,12 @@
       "quotes": 2742102,
       "shareholders": 8141,
       "cnpj": "17.329.029/0001-14",
-      "price": 72.88,
+      "price": 72.6,
       "value": 0.33,
       "patrimony": 76.23,
       "min52w": 43.4,
       "max52w": 122.29,
-      "valuation": -10.07,
+      "valuation": -12.47,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -10885,12 +10709,12 @@
       "quotes": 1078000,
       "shareholders": 3073,
       "cnpj": "13.652.006/0001-95",
-      "price": 42.87,
+      "price": 42.92,
       "value": 0.53,
       "patrimony": 86.14,
       "min52w": 34.49,
       "max52w": 76.5,
-      "valuation": 3.35,
+      "valuation": 3.67,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -10973,12 +10797,12 @@
       "quotes": 1024362,
       "shareholders": 2352,
       "cnpj": "30.647.758/0001-87",
-      "price": 88,
+      "price": 86.48,
       "value": 0.37,
       "patrimony": 97.05,
       "min52w": 69.05,
       "max52w": 105.58,
-      "valuation": -13.73,
+      "valuation": -15.22,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -11033,12 +10857,12 @@
       "quotes": 1851786,
       "shareholders": 7739,
       "cnpj": "09.006.914/0001-34",
-      "price": 94.82,
+      "price": 95.29,
       "value": 1.05,
       "patrimony": 96.45,
       "min52w": 45.01,
       "max52w": 112.75,
-      "valuation": -4.69,
+      "valuation": -4.13,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -11121,12 +10945,12 @@
       "quotes": 5258752,
       "shareholders": 41823,
       "cnpj": "27.529.279/0001-51",
-      "price": 95.9,
+      "price": 95.25,
       "value": 0.6,
       "patrimony": 92.82,
       "min52w": 57.72,
       "max52w": 142.5,
-      "valuation": -6.77,
+      "valuation": -7.3,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -11248,12 +11072,12 @@
       "quotes": 8552712,
       "shareholders": 21969,
       "cnpj": "21.408.063/0001-51",
-      "price": 87.01,
+      "price": 87.21,
       "value": 0.42,
       "patrimony": 83.64,
       "min52w": 43.2,
       "max52w": 105.5,
-      "valuation": 0.59,
+      "valuation": 0.82,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -11336,12 +11160,12 @@
       "quotes": 6942557,
       "shareholders": 54443,
       "cnpj": "29.467.977/0001-03",
-      "price": 99.79,
+      "price": 98.9,
       "value": 0.55,
       "patrimony": 97.67,
       "min52w": 61.38,
       "max52w": 113.1,
-      "valuation": -5.66,
+      "valuation": -6.34,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -11424,12 +11248,12 @@
       "quotes": 1955023,
       "shareholders": 417,
       "cnpj": "30.166.700/0001-11",
-      "price": 100.5,
+      "price": 100,
       "value": 0.65,
       "patrimony": 102.73,
       "min52w": 82,
       "max52w": 130,
-      "valuation": -8.64,
+      "valuation": -9.09,
       "dividends": [
         {
           "base_date": "09/06/20",
@@ -11512,12 +11336,12 @@
       "quotes": 10693931,
       "shareholders": 28783,
       "cnpj": "15.576.907/0001-70",
-      "price": 143.99,
+      "price": 144.8,
       "value": 0.85,
       "patrimony": 125.23,
       "min52w": 101,
       "max52w": 170.06,
-      "valuation": 8.88,
+      "valuation": 10.2,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -11600,12 +11424,12 @@
       "quotes": 515824,
       "shareholders": 1630,
       "cnpj": "15.769.670/0001-44",
-      "price": 23.11,
+      "price": 22.65,
       "value": 0.05,
       "patrimony": 29.5,
       "min52w": 17.7,
       "max52w": 44.49,
-      "valuation": -45.19,
+      "valuation": -46.39,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -11688,12 +11512,12 @@
       "quotes": 2976666,
       "shareholders": 20509,
       "cnpj": "03.683.056/0001-86",
-      "price": 181.12,
+      "price": 175.5,
       "value": 1.55,
       "patrimony": 198.11,
       "min52w": 108.02,
       "max52w": 299.97,
-      "valuation": 5.92,
+      "valuation": 2.82,
       "dividends": [
         {
           "base_date": "19/06/20",
@@ -11776,12 +11600,12 @@
       "quotes": 1078042,
       "shareholders": 830,
       "cnpj": "23.120.027/0001-13",
-      "price": 80.03,
+      "price": 81,
       "value": 0.34,
       "patrimony": 98.01,
       "min52w": 75,
       "max52w": 92,
-      "valuation": -3.58,
+      "valuation": -4.69,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -11864,12 +11688,12 @@
       "quotes": 5990397,
       "shareholders": 19165,
       "cnpj": "32.274.163/0001-59",
-      "price": 104.6,
+      "price": 104.68,
       "value": 0.81,
       "patrimony": 97.51,
       "min52w": 69.04,
       "max52w": 129.92,
-      "valuation": 6.84,
+      "valuation": 6.87,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -11952,12 +11776,12 @@
       "quotes": 26291,
       "shareholders": 33,
       "cnpj": "16.841.067/0001-99",
-      "price": 1200,
+      "price": 1250,
       "value": 22.39,
       "patrimony": 1269.26,
       "min52w": 1001,
       "max52w": 1469.98,
-      "valuation": -6.98,
+      "valuation": -3.1,
       "dividends": [
         {
           "base_date": "31/03/20",
@@ -12040,12 +11864,12 @@
       "quotes": 1078164,
       "shareholders": 2228,
       "cnpj": "34.027.774/0001-28",
-      "price": 83.98,
+      "price": 82.97,
       "value": 0.25,
       "patrimony": 90.78,
       "min52w": 46.51,
       "max52w": 101.02,
-      "valuation": -16.02,
+      "valuation": -17.03,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12079,12 +11903,12 @@
       "quotes": 107481,
       "shareholders": 909,
       "cnpj": "15.394.563/0001-89",
-      "price": 896.18,
+      "price": 948.89,
       "value": 3.46,
       "patrimony": 1092.07,
       "min52w": 800,
       "max52w": 1000,
-      "valuation": -3.64,
+      "valuation": 2.47,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12167,12 +11991,12 @@
       "quotes": 2676000,
       "shareholders": 15198,
       "cnpj": "15.006.286/0001-90",
-      "price": 80,
+      "price": 80.79,
       "value": 0.42,
       "patrimony": 102.58,
       "min52w": 58,
       "max52w": 112.9,
-      "valuation": -0.56,
+      "valuation": 0.49,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12255,12 +12079,12 @@
       "quotes": 1440000,
       "shareholders": 8653,
       "cnpj": "35.507.457/0001-71",
-      "price": 87.06,
+      "price": 85.5,
       "value": 0.34,
       "patrimony": 92.23,
       "min52w": 51.82,
       "max52w": 100.25,
-      "valuation": -12.76,
+      "valuation": -14.32,
       "dividends": [
         {
           "base_date": "08/06/20",
@@ -12286,94 +12110,6 @@
       ]
     },
     {
-      "fundSymbol": "SAAG11",
-      "name": "FII SANT AGE",
-      "type": "Tijolo: Bancário",
-      "category": "Renda Gestão Passiva",
-      "register_date": "24/09/2012",
-      "quotes": 5631512,
-      "shareholders": 16251,
-      "cnpj": "16.915.840/0001-14",
-      "price": 106.61,
-      "value": 0.93,
-      "patrimony": 111.5,
-      "min52w": 89,
-      "max52w": 146.49,
-      "valuation": -16.65,
-      "dividends": [
-        {
-          "base_date": "31/03/20",
-          "pay_date": "15/04/20",
-          "price": 116.61,
-          "yield": 0.8,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "28/02/20",
-          "pay_date": "13/03/20",
-          "price": 129.45,
-          "yield": 0.72,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "31/01/20",
-          "pay_date": "14/02/20",
-          "price": 137.5,
-          "yield": 0.68,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "30/12/19",
-          "pay_date": "15/01/20",
-          "price": 144,
-          "yield": 0.65,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "29/11/19",
-          "pay_date": "13/12/19",
-          "price": 132,
-          "yield": 0.7,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "31/10/19",
-          "pay_date": "14/11/19",
-          "price": 134.99,
-          "yield": 0.69,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "30/09/19",
-          "pay_date": "15/10/19",
-          "price": 129.85,
-          "yield": 0.72,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "30/08/19",
-          "pay_date": "13/09/19",
-          "price": 128.71,
-          "yield": 0.72,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "31/07/19",
-          "pay_date": "15/08/19",
-          "price": 128.72,
-          "yield": 0.72,
-          "dividend": 0.93
-        },
-        {
-          "base_date": "28/06/19",
-          "pay_date": "15/07/19",
-          "price": 128.25,
-          "yield": 0.73,
-          "dividend": 0.93
-        }
-      ]
-    },
-    {
       "fundSymbol": "SADI11",
       "name": "FII SANT PAP",
       "type": "Papel: CRIs",
@@ -12382,12 +12118,12 @@
       "quotes": 3180207,
       "shareholders": 2795,
       "cnpj": "32.903.521/0001-45",
-      "price": 74.05,
+      "price": 74,
       "value": 0.24,
       "patrimony": 100.38,
       "min52w": 60,
       "max52w": 102.99,
-      "valuation": -28.1,
+      "valuation": -28.15,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12475,7 +12211,7 @@
       "patrimony": 55.03,
       "min52w": 31.92,
       "max52w": 70,
-      "valuation": -14.56,
+      "valuation": -25.44,
       "dividends": [
         {
           "base_date": "01/10/18",
@@ -12558,12 +12294,12 @@
       "quotes": 3599982,
       "shareholders": 4515,
       "cnpj": "32.903.702/0001-71",
-      "price": 87.6,
+      "price": 94.24,
       "value": 0.26,
       "patrimony": 100.1,
       "min52w": 56.71,
       "max52w": 115,
-      "valuation": -21.78,
+      "valuation": -15.85,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12618,12 +12354,12 @@
       "quotes": 4200000,
       "shareholders": 4795,
       "cnpj": "01.657.856/0001-05",
-      "price": 9.27,
+      "price": 9.33,
       "value": 0.02,
       "patrimony": 11.49,
       "min52w": 8.17,
       "max52w": 14.57,
-      "valuation": -13.36,
+      "valuation": -12.8,
       "dividends": [
         {
           "base_date": "07/05/20",
@@ -12706,12 +12442,12 @@
       "quotes": 4770100,
       "shareholders": 35475,
       "cnpj": "16.671.412/0001-93",
-      "price": 102.21,
+      "price": 106.65,
       "value": 0.44,
       "patrimony": 95.54,
       "min52w": 58.7,
       "max52w": 159.99,
-      "valuation": -10.3,
+      "valuation": -6.8,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -12840,12 +12576,12 @@
       "quotes": 608950,
       "shareholders": 2972,
       "cnpj": "03.507.519/0001-59",
-      "price": 844.99,
+      "price": 849,
       "value": 3.6,
       "patrimony": 788.66,
       "min52w": 690.02,
       "max52w": 1036.06,
-      "valuation": -7.55,
+      "valuation": -7.66,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -12928,12 +12664,12 @@
       "quotes": 1798000,
       "shareholders": 14153,
       "cnpj": "15.538.445/0001-05",
-      "price": 69.11,
+      "price": 69.61,
       "value": 0.44,
       "patrimony": 77.1,
       "min52w": 44.82,
       "max52w": 124,
-      "valuation": -21.89,
+      "valuation": -20.39,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13021,7 +12757,7 @@
       "patrimony": 0.21,
       "min52w": 82.58,
       "max52w": 103.49,
-      "valuation": 20.98,
+      "valuation": 21.11,
       "dividends": [
         {
           "base_date": "20/03/20",
@@ -13090,12 +12826,12 @@
       "quotes": 3616910,
       "shareholders": 5179,
       "cnpj": "26.681.370/0001-25",
-      "price": 90.8,
+      "price": 91.96,
       "value": 0.5,
       "patrimony": 96.58,
       "min52w": 65,
       "max52w": 119.2,
-      "valuation": -8.52,
+      "valuation": -7.35,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13164,12 +12900,12 @@
       "quotes": 850530,
       "shareholders": 2318,
       "cnpj": "20.834.884/0001-97",
-      "price": 137.99,
+      "price": 138.47,
       "value": 5,
       "patrimony": 118.64,
       "min52w": 80,
       "max52w": 176,
-      "valuation": -1.44,
+      "valuation": -1.09,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13252,12 +12988,12 @@
       "quotes": 3465671,
       "shareholders": 19368,
       "cnpj": "25.032.881/0001-53",
-      "price": 127.35,
+      "price": 128.56,
       "value": 1.25,
       "patrimony": 128.45,
       "min52w": 80.02,
       "max52w": 144.99,
-      "valuation": 0.24,
+      "valuation": 1.14,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13340,12 +13076,12 @@
       "quotes": 1472728,
       "shareholders": 2524,
       "cnpj": "13.966.653/0001-71",
-      "price": 136.5,
+      "price": 136.76,
       "value": 0.79,
       "patrimony": 118.77,
       "min52w": 102.33,
       "max52w": 164.96,
-      "valuation": 0,
+      "valuation": 0.19,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -13428,12 +13164,12 @@
       "quotes": 3050169,
       "shareholders": 298,
       "cnpj": "30.230.870/0001-18",
-      "price": 11.8,
+      "price": 11.98,
       "value": 0.09,
       "patrimony": 9.92,
       "min52w": 8.65,
       "max52w": 12,
-      "valuation": 18,
+      "valuation": 19.8,
       "dividends": [
         {
           "base_date": "08/06/20",
@@ -13506,12 +13242,12 @@
       "quotes": 3935562,
       "shareholders": 680,
       "cnpj": "04.722.883/0001-02",
-      "price": 190.01,
+      "price": 190,
       "value": 0.57,
       "patrimony": 221.94,
       "min52w": 170,
       "max52w": 250,
-      "valuation": 0.69,
+      "valuation": 0.7,
       "dividends": [
         {
           "base_date": "12/06/20",
@@ -13594,12 +13330,12 @@
       "quotes": 1870963,
       "shareholders": 604,
       "cnpj": "28.548.288/0001-52",
-      "price": 101.5,
+      "price": 101.89,
       "value": 0.67,
       "patrimony": 101.11,
       "min52w": 81.5,
       "max52w": 118.5,
-      "valuation": -13.98,
+      "valuation": -13.65,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13654,12 +13390,12 @@
       "quotes": 6856389,
       "shareholders": 29828,
       "cnpj": "28.152.272/0001-26",
-      "price": 100.6,
+      "price": 100.9,
       "value": 0.7,
       "patrimony": 97.15,
       "min52w": 62,
       "max52w": 115.39,
-      "valuation": -5.81,
+      "valuation": -5.68,
       "dividends": [
         {
           "base_date": "05/06/20",
@@ -13742,12 +13478,12 @@
       "quotes": 5811259,
       "shareholders": 2758,
       "cnpj": "32.400.250/0001-05",
-      "price": 101,
+      "price": 101.8,
       "value": 0.25,
       "patrimony": 100.75,
       "min52w": 79,
       "max52w": 110,
-      "valuation": -4.08,
+      "valuation": -3.32,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -13869,12 +13605,12 @@
       "quotes": 746011,
       "shareholders": 1010,
       "cnpj": "34.197.811/0001-46",
-      "price": 99.5,
+      "price": 99.49,
       "value": 0.75,
       "patrimony": 95.67,
       "min52w": 60,
       "max52w": 101,
-      "valuation": 25.95,
+      "valuation": 25.94,
       "dividends": [
         {
           "base_date": "10/06/20",
@@ -13901,12 +13637,12 @@
       "quotes": 4506414,
       "shareholders": 27406,
       "cnpj": "29.852.732/0001-91",
-      "price": 90.44,
+      "price": 88.64,
       "value": 0.47,
       "patrimony": 96.92,
       "min52w": 58,
       "max52w": 129.9,
-      "valuation": -12.19,
+      "valuation": -12.5,
       "dividends": [
         {
           "base_date": "10/06/20",
@@ -13989,12 +13725,12 @@
       "quotes": 7038771,
       "shareholders": 39039,
       "cnpj": "24.853.044/0001-22",
-      "price": 123.39,
+      "price": 123.98,
       "value": 0.52,
       "patrimony": 112.53,
       "min52w": 65,
       "max52w": 151.5,
-      "valuation": 12.17,
+      "valuation": 12.51,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14077,12 +13813,12 @@
       "quotes": 9942726,
       "shareholders": 22376,
       "cnpj": "12.516.185/0001-70",
-      "price": 59.16,
+      "price": 58.5,
       "value": 0.35,
       "patrimony": 60.78,
       "min52w": 37.01,
       "max52w": 73.98,
-      "valuation": -6.54,
+      "valuation": -7.58,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14137,12 +13873,12 @@
       "quotes": 14270995,
       "shareholders": 150566,
       "cnpj": "17.554.274/0001-25",
-      "price": 110,
+      "price": 105.3,
       "value": 0.23,
       "patrimony": 121.43,
       "min52w": 60.25,
       "max52w": 147.83,
-      "valuation": 2.83,
+      "valuation": -0.57,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14225,12 +13961,12 @@
       "quotes": 1784828,
       "shareholders": 6204,
       "cnpj": "15.296.696/0001-12",
-      "price": 111.74,
+      "price": 110.14,
       "value": 0.62,
       "patrimony": 90.61,
       "min52w": 79.1,
       "max52w": 124.79,
-      "valuation": 11.34,
+      "valuation": 10.34,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14313,12 +14049,12 @@
       "quotes": 827913,
       "shareholders": 370,
       "cnpj": "17.870.926/0001-30",
-      "price": 80,
+      "price": 79.1,
       "value": 0.34,
       "patrimony": 97.92,
       "min52w": 71,
       "max52w": 98.9,
-      "valuation": -11.11,
+      "valuation": -8.71,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14401,12 +14137,12 @@
       "quotes": 4850490,
       "shareholders": 48292,
       "cnpj": "11.664.201/0001-00",
-      "price": 106.5,
+      "price": 106.29,
       "value": 0.73,
       "patrimony": 105.03,
       "min52w": 75,
       "max52w": 155.74,
-      "valuation": -24.98,
+      "valuation": -26.19,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14489,12 +14225,12 @@
       "quotes": 2098800,
       "shareholders": 1640,
       "cnpj": "23.740.595/0001-17",
-      "price": 92.15,
+      "price": 90.2,
       "value": 0.7,
       "patrimony": 105.5,
       "min52w": 66.51,
       "max52w": 125,
-      "valuation": -7.84,
+      "valuation": -9.79,
       "dividends": [
         {
           "base_date": "28/02/20",
@@ -14577,12 +14313,12 @@
       "quotes": 2115000,
       "shareholders": 2458,
       "cnpj": "27.368.600/0001-63",
-      "price": 111.61,
+      "price": 111.69,
       "value": 0.72,
       "patrimony": 100.78,
       "min52w": 70.2,
       "max52w": 128.5,
-      "valuation": 11.39,
+      "valuation": 11.69,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14718,12 +14454,12 @@
       "quotes": 1020747,
       "shareholders": 2206,
       "cnpj": "09.326.861/0001-39",
-      "price": 80.5,
+      "price": 80.46,
       "value": 0.15,
       "patrimony": 93.78,
       "min52w": 70,
       "max52w": 115,
-      "valuation": -7.47,
+      "valuation": -8.05,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14811,7 +14547,7 @@
       "patrimony": 91.08,
       "min52w": 37,
       "max52w": 77,
-      "valuation": -24.68,
+      "valuation": -18.31,
       "dividends": [
         {
           "base_date": "15/06/20",
@@ -14894,12 +14630,12 @@
       "quotes": 6567011,
       "shareholders": 6660,
       "cnpj": "28.516.301/0001-91",
-      "price": 91.71,
+      "price": 89.5,
       "value": 0.54,
       "patrimony": 97.47,
       "min52w": 55,
       "max52w": 110,
-      "valuation": -10.09,
+      "valuation": -12.25,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -14961,12 +14697,12 @@
       "quotes": 2414570,
       "shareholders": 23130,
       "cnpj": "16.802.320/0001-03",
-      "price": 62.44,
+      "price": 62.98,
       "value": 0.85,
       "patrimony": 61.56,
       "min52w": 35,
       "max52w": 104,
-      "valuation": -36.48,
+      "valuation": -36.94,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -15047,14 +14783,14 @@
       "category": "Renda Gestão Ativa",
       "register_date": "19/04/2016",
       "quotes": 3737642,
-      "shareholders": 1527,
+      "shareholders": 1528,
       "cnpj": "18.308.516/0001-63",
-      "price": 92.06,
+      "price": 94.54,
       "value": 0.34,
       "patrimony": 125.45,
       "min52w": 73.1,
       "max52w": 113.29,
-      "valuation": -12.32,
+      "valuation": -9.92,
       "dividends": [
         {
           "base_date": "31/03/20",
@@ -15137,12 +14873,12 @@
       "quotes": 6586568,
       "shareholders": 27176,
       "cnpj": "28.516.325/0001-40",
-      "price": 116.2,
+      "price": 115.61,
       "value": 0.6,
       "patrimony": 109.91,
       "min52w": 75.13,
       "max52w": 226.9,
-      "valuation": -2.02,
+      "valuation": -2.44,
       "dividends": [
         {
           "base_date": "18/06/20",
@@ -15225,12 +14961,12 @@
       "quotes": 15269476,
       "shareholders": 147365,
       "cnpj": "26.502.794/0001-85",
-      "price": 121,
+      "price": 123.15,
       "value": 0.54,
       "patrimony": 109.29,
       "min52w": 71,
       "max52w": 152.5,
-      "valuation": 18.24,
+      "valuation": 20.5,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -15313,12 +15049,12 @@
       "quotes": 18207683,
       "shareholders": 200040,
       "cnpj": "28.757.546/0001-00",
-      "price": 106.31,
+      "price": 105,
       "value": 0.27,
       "patrimony": 108.7,
       "min52w": 59.27,
       "max52w": 149.98,
-      "valuation": -2.31,
+      "valuation": -3.42,
       "dividends": [
         {
           "base_date": "18/06/20",
@@ -15401,12 +15137,12 @@
       "quotes": 4320000,
       "shareholders": 20732,
       "cnpj": "30.654.849/0001-40",
-      "price": 94.45,
+      "price": 94.8,
       "value": 0.8,
       "patrimony": 98.48,
       "min52w": 52,
       "max52w": 129.99,
-      "valuation": -8.74,
+      "valuation": -8.41,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -15461,12 +15197,12 @@
       "quotes": 3350000,
       "shareholders": 4029,
       "cnpj": "30.983.020/0001-90",
-      "price": 96.56,
+      "price": 95.9,
       "value": 0.68,
       "patrimony": 95.63,
       "min52w": 55,
       "max52w": 104,
-      "valuation": -6.5,
+      "valuation": -7.14,
       "dividends": [
         {
           "base_date": "29/05/20",
@@ -15507,12 +15243,12 @@
       "quotes": 1792557,
       "shareholders": 6009,
       "cnpj": "15.006.267/0001-63",
-      "price": 9.3,
+      "price": 9.07,
       "value": 0.32,
       "patrimony": 14.72,
       "min52w": 6.28,
       "max52w": 20.55,
-      "valuation": 38.81,
+      "valuation": 32.41,
       "dividends": [
         {
           "base_date": "30/06/16",
